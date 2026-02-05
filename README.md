@@ -42,13 +42,13 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 
 | Plataforma | Exigências (devido às limitações de hardware ou de emulação) | Tempo de jogo (minutos) |
 | :---- | :---- | :---- |
-| 32X\* | Jogos que **não** exijam o uso do Sega CD.Jogos que **não** dependam do Sega Mouse (jogos listados neste [link](https://retroachievements.org/hub/20338) oferecem este suporte e, portanto, devem ser evitados) | 20 |
+| 32X\* | Jogos que **não** exijam o uso do Sega CD. / Jogos que **não** dependam do Sega Mouse (jogos listados neste [link](https://retroachievements.org/hub/20338) oferecem este suporte e, portanto, devem ser evitados) | 20 |
 | Arcade\* | Jogos que possam ser rodados no FBNeo, excluindo, no caso, jogos de NAOMI 1 e 2, AtomisWave e Sega Model 1, 2 e 3\. | 20 |
 | Arduboy | Jogos que **não** sejam de Arduboy FX (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
 | Atari 2600 |  | 20 |
 | Atari 7800 |  | 20 |
 | Dreamcast\* | Jogos que **não** requeiram acesso à rede online para funcionarem. Jogos que **não** dependam do Dreamcast Mouse (jogos listados neste [link](https://retroachievements.org/hub/18345) oferecem este suporte e, portanto, devem ser evitados) | 30 |
-| DS\* | Jogos que **não** requeiram microfone para funcionarem (consulte este [link](https://retroachievements.org/hub/7791) para saber quais jogos possuem suporte a microfone e que devem ser evitados) Jogos que **não** dependam de controles de toque (consulte este [link](https://retroachievements.org/hub/22748) para saber quais jogos não requerem controles de toque) Jogos que **não** sejam de DSi (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
+| DS\* | Jogos que **não** requeiram microfone para funcionarem (consulte este [link](https://retroachievements.org/hub/7791) para saber quais jogos possuem suporte a microfone e que devem ser evitados) / Jogos que **não** dependam de controles de toque (consulte este [link](https://retroachievements.org/hub/22748) para saber quais jogos não requerem controles de toque) / Jogos que **não** sejam de DSi (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
 | Famicom Disk System\* | Jogos que **não** exijam uso do microfone. | 30 |
 | Game Boy | Jogos que **não** requeiram periférico específico, como Game Boy Printer. | 20 |
 | Game Boy Advance | Jogos que **não** requeiram periférico específico | 20 |
@@ -62,7 +62,7 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 | NES / Famicom | Jogos que **não** exijam uso do microfone. | 20 |
 | Nintendo 64\* |  | 20 |
 | PlayStation | Jogos que **não** requeiram periférico específico, como o PlayStation Mouse (jogos listados neste [link](https://retroachievements.org/hub/924) oferecem este suporte e, portanto, devem ser evitados) | 30 |
-| PlayStation 2\* | Jogos que **não** requeiram acesso à rede online. Jogos que **não** requeiram periférico específico, como o EyeToy, mouse e teclado (consulte neste [link](https://retroachievements.org/hub/20378) os jogos que possuem suporte ao EyeToy  e, neste outro [link](https://retroachievements.org/hub/21398), jogos que oferecem suporte a mouse e teclado e, portanto, devem ser evitados) Jogos que **não** dependam de HDD para funcionar. | 30 |
+| PlayStation 2\* | Jogos que **não** requeiram acesso à rede online. Jogos que **não** requeiram periférico específico, como o EyeToy, mouse e teclado (consulte neste [link](https://retroachievements.org/hub/20378) os jogos que possuem suporte ao EyeToy  e, neste outro [link](https://retroachievements.org/hub/21398), jogos que oferecem suporte a mouse e teclado e, portanto, devem ser evitados) / Jogos que **não** dependam de HDD para funcionar. | 30 |
 | PlayStation Portable\* | Jogos que **não** requeiram o Go\!Cam (confira este [link](https://retroachievements.org/hub/3325) com os jogos com suporte e que, portanto, devem ser evitados) | 30 |
 | Saturn\* | Jogos que **não** requeiram o Shuttle Mouse (jogos listados neste [link](https://retroachievements.org/hub/2740) oferecem este suporte e, portanto, devem ser evitados) | 30 |
 | Sega CD / Mega CD | Jogos que **não** requeiram o Sega Mouse (jogos listados neste [link](https://retroachievements.org/hub/20338) oferecem este suporte e, portanto, devem ser evitados) | 30 |
@@ -70,7 +70,7 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 | Supervision |  | 20 |
 | TurboGrafx-16 / PC Engine | Exceto jogos de SuperGrafx, por enquanto (a lista de jogos de SuperGrafx, que **não** devem ser pedidos ainda) se encontra [aqui](https://retroachievements.org/hub/23406)) | 20 |
 | TurboGrafx-CD / PC Engine CD\* |  | 30 |
-| Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console NÃO são permitidos. | 30 |
+| Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console **não** são permitidos. | 30 |
 
 ## Observações importantes
 
