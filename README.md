@@ -122,5 +122,3 @@ Sim e não\! Pra deixar claro, se o jogo foi incluído no [histórico de jogos d
 # Vai zerar alguns desses jogos futuramente?
 
 Apenas se eu gostar bastante, mas não garanto, pois a ideia da Playlist Gamer é experimentar e descobrir jogos.
-
-<img width="673" height="275" alt="Como pedir jogo para a Playlist Gamer - Imgur" src="https://github.com/user-attachments/assets/57f78bb5-8d93-4eee-8b8b-b578119173e2" />
