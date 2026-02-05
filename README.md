@@ -19,38 +19,27 @@ A recompensa pode ser resgatada tanto em live, quanto em off. No caso do pedido 
 ## Plataformas disponíveis (e tempo de gameplay)
 
 
-Plataforma
-Exigências (devido às limitações de hardware ou de emulação)
-Tempo de jogo (minutos)
-32X*
-Jogos que não exijam o uso do Sega CD.
-Jogos que não dependam do Sega Mouse (jogos listados neste link oferecem este suporte e, portanto, devem ser evitados)
-20
-Arcade*
-Jogos que possam ser rodados no FBNeo, excluindo, no caso, jogos de NAOMI 1 e 2, AtomisWave e Sega Model 1, 2 e 3.
-20
-Arduboy
-Jogos que não sejam de Arduboy FX (poderão ser permitidos em breve, após eu realizar alguns testes)
-20
-Atari 2600
+| Plataforma | Exigências (devido às limitações de hardware ou de emulação) | Tempo de jogo (minutos) |
+| ------------- | ------------- | ------------- |
+| 32X* | Jogos que **não** exijam o uso do Sega CD ou que **não** dependam do Sega Mouse (jogos listados neste [link](https://retroachievements.org/hub/20338) oferecem este suporte e, portanto, devem ser evitados) | 20 |
+| Arcade* | Jogos que possam ser rodados no FBNeo, excluindo, no caso, jogos de NAOMI 1 e 2, AtomisWave e Sega Model 1, 2 e 3. | 20 |
+| Arduboy | Jogos que **não** sejam de Arduboy FX (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
+| Atari 2600 | ------------- | 20 |
+| Atari 7800 | ------------- | 20 |
+| Dreamcast* | Jogos que **não** requeiram acesso à rede online para funcionarem ou que **não** dependam do Dreamcast Mouse (jogos listados neste [link](https://retroachievements.org/hub/18345) oferecem este suporte e, portanto, devem ser evitados) | 30 |
+| DS* | Jogos que **não** requeiram microfone para funcionarem (consulte este [link](https://retroachievements.org/hub/7791) para saber quais jogos possuem suporte a microfone e que devem ser evitados) ou que **não** dependam de controles de toque (consulte este [link](https://retroachievements.org/hub/22748) para saber quais jogos não requerem controles de toque) ou que **não** sejam de DSi (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
+| Famicom Disk System* | Jogos que **não** exijam uso do microfone. | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 
-
-20
-Atari 7800
-
-
-20
-Dreamcast*
-Jogos que não requeiram acesso à rede online para funcionarem.
-Jogos que não dependam do Dreamcast Mouse (jogos listados neste link oferecem este suporte e, portanto, devem ser evitados)
-30
-DS*
-Jogos que não requeiram microfone para funcionarem (consulte este link para saber quais jogos possuem suporte a microfone e que devem ser evitados)
-Jogos que não dependam de controles de toque (consulte este link para saber quais jogos não requerem controles de toque)
-Jogos que não sejam de DSi (poderão ser permitidos em breve, após eu realizar alguns testes)
 20
 Famicom Disk System*
-Jogos que não exijam uso do microfone.
+
 30
 Game Boy
 Jogos que não requeiram periférico específico, como Game Boy Printer.
