@@ -35,7 +35,7 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 3. Não há limite de pedidos por usuário, mas, possivelmente, será preciso distribuir pedidos de mesmo usuário em várias lives para dar oportunidade a outros pedintes.  
 4. A recompensa pode ser resgatada tanto em live, quanto em off. No caso do pedido em off, eu olharei regularmente a fila de pedidos em ambos os sites.
 
-# Plataformas disponíveis (e tempo de gameplay) {#plataformas-disponíveis-(e-tempo-de-gameplay)}
+# Plataformas disponíveis (e tempo de gameplay)
 
 | Plataforma | Exigências (devido às limitações de hardware ou de emulação) | Tempo de jogo (minutos) |
 | :---- | :---- | :---- |
@@ -69,7 +69,7 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 | TurboGrafx-CD / PC Engine CD\* |  | 30 |
 | Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console NÃO são permitidos. | 30 |
 
-## Observações importantes {#observações-importantes}
+## Observações importantes
 
 1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
    1. Jogos **não podem** depender de periférico específico, acelerômetro, microfone, controles de toque ou câmera, pois estas funcionalidades são difíceis de emular com apenas um controle;  
@@ -86,7 +86,7 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 10. VIPs têm direito a 10 minutos a mais de jogo. Subs têm direito a 15 minutos a mais de jogo, independentemente do tier, e quem for sub e VIP ao mesmo tempo terá 25 minutos a mais\! Subs tier 2 e 3 também [terão benefícios extras](#como-será-a-ordem-dos-jogos?). **É importante deixar claro que os benefícios para sub só valem para quem é/era sub no momento em que o jogo foi pedido via resgate ou publicação no Discord.**  
 11. Mais plataformas poderão ser incluídas em breve, após alguns testes.
 
-## A respeito das coletâneas {#a-respeito-das-coletâneas}
+## A respeito das coletâneas
 
 Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** nos seguintes casos:
 
@@ -100,7 +100,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 
 Assim que tivermos, ao menos, 8 jogos pedidos, será montado um cronograma com a lista dos jogos e a live será agendada. Haverá uma quantidade máxima de jogos para cada live, que terá que respeitar a duração da live, que será de 3 a 4 horas. Para saber quando ocorrerá a live da Playlist Gamer, acesse a agenda das lives por este [link](https://calendar.google.com/calendar/embed?src=d98950dac362d1dd9b98507d7846f85f830954c50299baa1ff411bc28203e063%40group.calendar.google.com). A frequência dessas lives (se vai ser mensal, semanal ou quinzenal) dependerá do tamanho da fila de pedidos.
 
-# Como será a ordem dos jogos? {#como-será-a-ordem-dos-jogos?}
+# Como será a ordem dos jogos?
 
 A ordem dos jogos será definida por roleta no Wheel of Names. Subs tier 2, que pediram o jogo quando tinha sub ativo, têm o dobro de chances de o jogo sair na roleta. Subs tier 3 terão prioridade total em até 1 jogo (no caso, será o jogo que dará o início à edição) e o triplo de chance nos demais jogos.
 
