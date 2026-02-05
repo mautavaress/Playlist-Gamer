@@ -1,5 +1,4 @@
-<img width="1280" height="720" alt="Playlist Gamer (alt)" src="https://github.com/user-attachments/assets/bb82e9c9-6dea-4a57-9434-5f6b988bfa22" />
-
+<img width="1280" height="316" alt="Playlist Gamer (Banner)" src="https://github.com/user-attachments/assets/bcd9e6eb-2639-4d87-bd1f-32bfe2fd100b" />
 
 # O que é a Playlist Gamer?
 
