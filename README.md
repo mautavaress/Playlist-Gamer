@@ -75,9 +75,9 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 ## Observações importantes
 
 1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
-   1. Jogos **não podem** depender de periférico específico, acelerômetro, microfone, controles de toque ou câmera, pois estas funcionalidades são difíceis de emular com apenas um controle;  
-   2. Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
-   3. Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
+   - Jogos **não podem** depender de periférico específico, acelerômetro, microfone, controles de toque ou câmera, pois estas funcionalidades são difíceis de emular com apenas um controle;  
+   - Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
+   -  Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
 2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, não recomendo pedir, pois pode haver problemas na hora de publicar VOD no YouTube.  
 3. Jogos consideravelmente ruins são permitidos, mas recomendo que não peçam, pois minha sanidade tem limites.  
 4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.  
