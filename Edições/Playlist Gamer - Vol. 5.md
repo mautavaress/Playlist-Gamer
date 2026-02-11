@@ -11,7 +11,7 @@ Bem-vindos à "Playlist Gamer - Vol. 5", onde eu jogo os jogos que vocês pedem!
 - [**LEGO Pirates of the Caribbean: The Video Game**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=8868s) (PlayStation Portable)
 - [**Garfield: Lasagna World Tour**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=14292s) (PlayStation 2)
 - [**The Simpsons: Hit & Run**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=14292s) (PlayStation 2)
-- [**Call of Duty 2: Big Red One**]https://www.youtube.com/watch?v=_fEa1tYUHwc&t=18400s) (PlayStation 2)
+- [**Call of Duty 2: Big Red One**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=18400s) (PlayStation 2)
 
 ## Agradecimentos especiais aos pedintes
 Agradecimentos especiais aos pedintes:
