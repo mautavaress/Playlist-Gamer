@@ -12,7 +12,7 @@ Bem-vindos à "Playlist Gamer - Especial Terror", onde eu jogo os jogos de terro
 - [**Dante's Inferno**](https://www.twitch.tv/videos/2602863020) (PlayStation Portable)
 - [**Castlevania II: Belmont's Revenge**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=62s) (Game Boy)
 - [**Metroid Fusion**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=2967s) (Game Boy Advance)
-[**Resident Evil CODE:Veronica**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=6256s) (Dreamcast)
+- [**Resident Evil CODE:Veronica**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=6256s) (Dreamcast)
 - **Jeanne D'Arc** (PlayStation Portable) ([Parte 1](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=10117s "Parte 1") / [Parte 2](https://www.youtube.com/watch?v=oMUHOl3TjSQ "Parte 2"))
 - [**Five Nights At Freddy's 3 Lite**](https://www.youtube.com/watch?v=oMUHOl3TjSQ&t=1505s "**Five Nights At Freddy's 3 Lite**") (PlayStation Portable)
 - [**Five Nights at Freddy's 4 Lite**](https://www.youtube.com/watch?v=oMUHOl3TjSQ&t=4688s "**Five Nights at Freddy's 4 Lite**") (PlayStation Portable)
