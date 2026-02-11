@@ -17,7 +17,7 @@ Bem-vindos à "Playlist Gamer 6", onde eu jogo os jogos que vocês me pediram ou
 - [**Gex 3: Deep Cover Gecko**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=4429s) (PlayStation)
 - [**Arthur! Ready to Race**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=6642s) (PlayStation)
 - [**The Simpsons Wrestling**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=10584s "**The Simpsons Wrestling**") (PlayStation)
-- [**Pepsiman** (rom hack de "Super Mario Bros.")](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=12655s "**Pepsiman** (rom hack de "Super Mario Bros.")") (NES / Famicom)
+- [**Pepsiman** (rom hack de "Super Mario Bros.")](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=12655s) (NES / Famicom)
 - [**Shrek Treasure Hunt**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=14116s "**Shrek Treasure Hunt**") (PlayStation)
 
 ## Agradecimentos especiais aos pedintes
