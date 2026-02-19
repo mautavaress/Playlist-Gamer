@@ -109,13 +109,16 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 9. Plataformas com \* indicam que nem todos os jogos poderão rodar, mesmo que atendam às exigências (devido a limitações de hardware ou de emulação). Exemplo: “Juiced” de PlayStation 2 não irá rodar no Xbox em Dev Mode, devido às constantes quedas de FR.  
 10. Mais plataformas poderão ser incluídas em breve, após alguns testes.
 
+> [!IMPORTANT]
+> Para edições temáticas da Playlist Gamer, haverá um conjunto de regras específicas. Verifique a [agenda das lives](https://calendar.google.com/calendar/embed?src=d98950dac362d1dd9b98507d7846f85f830954c50299baa1ff411bc28203e063%40group.calendar.google.com) com o indicativo de "prazo para pedidos" para consultar as regras específicas. Jogos que não se enquadrarem nas regras específicas da edição temática serão elegíveis apenas para as edições normais da "Playlist Gamer".
+
 # Quando serão essas lives?
 
 Assim que tivermos, ao menos, 8 jogos pedidos, será montado um cronograma com a lista dos jogos e a live será agendada. Haverá uma quantidade máxima de jogos para cada live, que terá que respeitar a duração da live, que será de 3 a 4 horas. Para saber quando ocorrerá a live da Playlist Gamer, acesse a agenda das lives por este [link](https://calendar.google.com/calendar/embed?src=d98950dac362d1dd9b98507d7846f85f830954c50299baa1ff411bc28203e063%40group.calendar.google.com). A frequência dessas lives (se vai ser mensal, semanal ou quinzenal) dependerá do tamanho da fila de pedidos.
 
 # Como será a ordem dos jogos?
 
-A ordem dos jogos será definida por roleta no Wheel of Names. Subs tier 2 terão vantagens no sorteio, conforme explicado aqui.
+A ordem dos jogos será definida por roleta no Wheel of Names. Subs tier 2 terão vantagens no sorteio, conforme explicado [aqui](#benefícios-para-subs-e-vips).
 
 # Estou em dúvida do que pedir. Tem alguma sugestão?
 
@@ -125,7 +128,7 @@ Você pode acessar o meu [perfil no RankOne](https://www.rankone.global/mautavar
 
 Sim e não! Pra deixar claro, se o jogo foi incluído no [histórico de jogos do Planilhão](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=193115686#gid=193115686&range=A1), ele **não** poderá mais ser pedido, mas você **pode** pedir “bis” de duas maneiras:
 
-1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#a-respeito-das-coletâneas);  
+1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](#plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#a-respeito-das-coletâneas);  
 2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de conteúdo](#observações-importantes).
 
 # Vai zerar alguns desses jogos futuramente?
