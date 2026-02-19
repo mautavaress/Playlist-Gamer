@@ -5,6 +5,9 @@
 A Playlist Gamer é uma série de lives, cada uma de 3 a 4 horas de duração, dedicadas aos jogos pedidos pelos usuários, semelhante às “lives dos patrões” ou ao extinto “Club Mix”, e que acontecerá no canal do Maumau ([https://twitch.tv/mautavaress](https://twitch.tv/mautavaress)).  
 Os jogos serão jogados na data e horário anunciados previamente, para maior comodidade de todos.
 
+> [!IMPORTANT]
+> Para edições temáticas da Playlist Gamer, haverá um conjunto de regras específicas. Verifique a [agenda das lives](https://calendar.google.com/calendar/embed?src=d98950dac362d1dd9b98507d7846f85f830954c50299baa1ff411bc28203e063%40group.calendar.google.com) com o indicativo de "prazo para pedidos" para consultar as regras específicas. Jogos que não se enquadrarem nas regras específicas da edição temática serão elegíveis apenas para as edições normais da "Playlist Gamer". Para regras gerais, continue a leitura.
+
 # Como pedir?
 
 ## Pelas recompensas da Twitch
@@ -108,9 +111,6 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 8. Você também pode acompanhar o status do pedido no [Planilhão do Maumau, seção “Playlist Gamer/Jogos para review - pedidos”](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=1804785880#gid=1804785880&range=A1).  
 9. Plataformas com \* indicam que nem todos os jogos poderão rodar, mesmo que atendam às exigências (devido a limitações de hardware ou de emulação). Exemplo: “Juiced” de PlayStation 2 não irá rodar no Xbox em Dev Mode, devido às constantes quedas de FR.  
 10. Mais plataformas poderão ser incluídas em breve, após alguns testes.
-
-> [!IMPORTANT]
-> Para edições temáticas da Playlist Gamer, haverá um conjunto de regras específicas. Verifique a [agenda das lives](https://calendar.google.com/calendar/embed?src=d98950dac362d1dd9b98507d7846f85f830954c50299baa1ff411bc28203e063%40group.calendar.google.com) com o indicativo de "prazo para pedidos" para consultar as regras específicas. Jogos que não se enquadrarem nas regras específicas da edição temática serão elegíveis apenas para as edições normais da "Playlist Gamer".
 
 # Quando serão essas lives?
 
