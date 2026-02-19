@@ -70,7 +70,28 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 | Supervision |  | 20 |
 | TurboGrafx-16 / PC Engine | Exceto jogos de SuperGrafx, por enquanto (a lista de jogos de SuperGrafx, que **não** devem ser pedidos ainda) se encontra [aqui](https://retroachievements.org/hub/23406)) | 20 |
 | TurboGrafx-CD / PC Engine CD\* |  | 30 |
-| Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console **não** são permitidos. | 30 |
+| Wii* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console **não** são permitidos. | 30 |
+
+## A respeito das coletâneas
+
+Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** nos seguintes casos:
+
+1. O jogo seja jogável **somente** por meio da coletânea, não sendo possível jogar o jogo de forma individual ou standalone (exemplo: “Sonic The Fighters” via “Sonic Gems Collection”);  
+2. O jogo apresente melhorias gráficas ou melhorias de jogabilidade (exemplo: “Super Mario Bros: The Lost Levels” via “Super Mario All Stars”);
+3. Apenas 3 jogos de coletânea, por pedido, no máximo (o pedinte deverá especificar o(s) jogo(s) da coletânea a ser jogado);  
+4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes).  
+5. Jogos que apresentem compilados de minigames ou que apresentem jogos ou minigames embutidos dentro de jogos principais **não** são sujeitos a estas regras específicas às "coletâneas" (exemplos: "PAC-MAN WORLD 2" e "WarioWare, Inc.: Mega Microgame$”), mas o pedinte deverá apurar e informar se o conteúdo já vem desbloqueado ou se é necessário desbloquear em algum momento.
+
+## Benefícios para SUBs e VIPs
+
+|VIP|SUB T1/Prime|SUB T2|SUB T3|
+|-|-|-|-|
+|Acréscimo de 10 minutos|Acréscimo de 15 minutos (25 se VIP)|Acréscimo de 15 minutos (25 se VIP)|Acréscimo de 15 minutos (25 se VIP)|
+|||O dobro de chance de o jogo sair na roleta|O triplo de chance de sair na roleta|
+||||Prioridade total em um dos jogos|
+
+> [!IMPORTANT]
+> É importante deixar claro que os benefícios para sub só valem para quem é/era sub no momento em que o jogo foi pedido via resgate ou publicação no Discord.
 
 ## Observações importantes
 
@@ -86,18 +107,7 @@ Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
 7. Em caso de indeferimento, os pontos serão reembolsados manualmente e o motivo do indeferimento será divulgado no tópico [“Indeferimentos” no servidor do Discord](https://discord.com/channels/1366981833358704771/1372195366924976240).  
 8. Você também pode acompanhar o status do pedido no [Planilhão do Maumau, seção “Playlist Gamer/Jogos para review - pedidos”](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=1804785880#gid=1804785880&range=A1).  
 9. Plataformas com \* indicam que nem todos os jogos poderão rodar, mesmo que atendam às exigências (devido a limitações de hardware ou de emulação). Exemplo: “Juiced” de PlayStation 2 não irá rodar no Xbox em Dev Mode, devido às constantes quedas de FR.  
-10. VIPs têm direito a 10 minutos a mais de jogo. Subs têm direito a 15 minutos a mais de jogo, independentemente do tier, e quem for sub e VIP ao mesmo tempo terá 25 minutos a mais\! Subs tier 2 e 3 também [terão benefícios extras](#como-será-a-ordem-dos-jogos). **É importante deixar claro que os benefícios para sub só valem para quem é/era sub no momento em que o jogo foi pedido via resgate ou publicação no Discord.**  
-11. Mais plataformas poderão ser incluídas em breve, após alguns testes.
-
-## A respeito das coletâneas
-
-Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** nos seguintes casos:
-
-1. O jogo seja jogável **somente** por meio da coletânea, não sendo possível jogar o jogo de forma individual ou standalone (exemplo: “Sonic The Fighters” via “Sonic Gems Collection”);  
-2. O jogo apresente melhorias gráficas ou melhorias de jogabilidade (exemplo: “Super Mario Bros: The Lost Levels” via “Super Mario All Stars”);  
-3. Apenas 3 jogos de coletânea, por pedido, no máximo (o pedinte deverá especificar o(s) jogo(s) da coletânea a ser jogado);  
-4. As coletâneas devem seguir as [regras de plataforma](plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes).  
-5. Jogos que apresentem compilados de minigames ou que apresentem jogos ou minigames embutidos dentro de jogos principais **não** são sujeitos a estas regras específicas às "coletâneas" (exemplos: "PAC-MAN WORLD 2" e "WarioWare, Inc.: Mega Microgame$”), mas o pedinte deverá apurar e informar se o conteúdo já vem desbloqueado ou se é necessário desbloquear em algum momento.
+10. Mais plataformas poderão ser incluídas em breve, após alguns testes.
 
 # Quando serão essas lives?
 
@@ -105,7 +115,7 @@ Assim que tivermos, ao menos, 8 jogos pedidos, será montado um cronograma com a
 
 # Como será a ordem dos jogos?
 
-A ordem dos jogos será definida por roleta no Wheel of Names. Subs tier 2, que pediram o jogo quando tinha sub ativo, têm o dobro de chances de o jogo sair na roleta. Subs tier 3 terão prioridade total em até 1 jogo (no caso, será o jogo que dará o início à edição) e o triplo de chance nos demais jogos.
+A ordem dos jogos será definida por roleta no Wheel of Names. Subs tier 2 terão vantagens no sorteio, conforme explicado aqui.
 
 # Estou em dúvida do que pedir. Tem alguma sugestão?
 
@@ -113,7 +123,7 @@ Você pode acessar o meu [perfil no RankOne](https://www.rankone.global/mautavar
 
 # Eu posso pedir esse jogo de novo?
 
-Sim e não\! Pra deixar claro, se o jogo foi incluído no [histórico de jogos do Planilhão](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=193115686#gid=193115686&range=A1), ele **não** poderá mais ser pedido, mas você **pode** pedir “bis” de duas maneiras:
+Sim e não! Pra deixar claro, se o jogo foi incluído no [histórico de jogos do Planilhão](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=193115686#gid=193115686&range=A1), ele **não** poderá mais ser pedido, mas você **pode** pedir “bis” de duas maneiras:
 
 1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#a-respeito-das-coletâneas);  
 2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de conteúdo](#observações-importantes).
