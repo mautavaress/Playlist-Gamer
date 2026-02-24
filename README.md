@@ -101,7 +101,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
    - Jogos **não podem** depender de periférico específico, acelerômetro, microfone, controles de toque ou câmera, pois estas funcionalidades são difíceis de emular com apenas um controle;  
    - Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
-   -  Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
+   - Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
 2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, não recomendo pedir, pois pode haver problemas na hora de publicar VOD no YouTube.  
 3. Jogos consideravelmente ruins são permitidos, mas recomendo que não peçam, pois minha sanidade tem limites.  
 4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.  
@@ -130,6 +130,10 @@ Sim e não! Pra deixar claro, se o jogo foi incluído no [histórico de jogos do
 
 1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](#plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#a-respeito-das-coletâneas);  
 2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de conteúdo](#observações-importantes).
+3. Desafio que possa ser cumprido em 20 minutos, como "vencer um chefe sem levar dano".
+
+> [!IMPORTANT]
+> Desafios só valem para este caso. Não serão aceitos desafios de jogo que eu nunca tenha jogado.
 
 # Vai zerar alguns desses jogos futuramente?
 
