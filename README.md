@@ -96,6 +96,10 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 > [!IMPORTANT]
 > É importante deixar claro que os benefícios para sub só valem para quem é/era sub no momento em que o jogo foi pedido via resgate ou publicação no Discord.
 
+## Benefícios para quem doar
+
+Durante a realização da edição da Playlist Gamer, doações de R$ 10,00 ou múltiplo através do [LivePix](https://livepix.gg/mautavaress) estenderão a gameplay do jogo atual em mais 15 minutos (restrito a até duas extensões por jogo, no máximo). Fora da edição da Playlist Gamer, o doador que doar R$ 10,00 ou mais e especificar o jogo e plataforma que pedir através do LivePix assegurará o acréscimo de 15 minutos ao tempo de gameplay. Doações abaixo de R$ 10,00 renderão aprnas 5 minutos de acréscimo.
+
 ## Observações importantes
 
 1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
