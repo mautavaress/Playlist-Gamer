@@ -21,18 +21,20 @@ Basta resgatar pelas recompensas do canal, e colocar o nome do jogo e a platafor
 
 Acesse [este tópico do Discord](https://discord.com/channels/1366981833358704771/1445785518192332873/1445785518192332873) e poste suas ideias.
 
-## Pela loja do StreamElements
+## Pelo LivePix
 
-Alternativamente, você pode pedir pelo StreamElements da seguinte forma:
+Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 
-1. Vá para a [loja do StreamElements](https://streamelements.com/mautavaress/store);  
-2. Em “Jogo para Playlist Gamer”, clique em “Resgatar” ou “Redeem”;  
+1. Acesse o site do [LivePix](https://livepix.gg/mautavaress);  
+2. Preencha os campos necessários, não se esquecendo de especificar no campo "Mensagem" o jome do jogo E a plataforma.  
 3. Clique em “Continuar”;  
-4. Preencha os campos obrigatórios e clique em “Resgatar” ou “Redeem”;  
-5. Pronto. O pedido foi feito\!
+4. Realize o pagamento pelo app do seu banco;  
+5. Pronto. O pedido foi feito!
 
-<img width="673" height="275" alt="Como pedir jogo para a Playlist Gamer - Imgur" src="https://github.com/user-attachments/assets/bab08f90-4162-44df-897b-3b2a28975f6a" />
+<img width="428" height="672" alt="image" src="https://github.com/user-attachments/assets/230469c9-4b00-4172-b92d-d5f7e2563b59" />
 
+> [!IMPORTANT]
+> Confira os [benefícios](#benefícios-para-quem-doar) para doadores para mais detalhes.
 
 ## Observações importantes
 
@@ -98,7 +100,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 
 ## Benefícios para quem doar
 
-Durante a realização da edição da Playlist Gamer, doações de R$ 10,00 ou múltiplo através do [LivePix](https://livepix.gg/mautavaress) estenderão a gameplay do jogo atual em mais 15 minutos (restrito a até duas extensões por jogo, no máximo). Fora da edição da Playlist Gamer, o doador que doar R$ 10,00 ou mais e especificar o jogo e plataforma que pedir através do LivePix assegurará o acréscimo de 15 minutos ao tempo de gameplay. Doações abaixo de R$ 10,00 renderão aprnas 5 minutos de acréscimo.
+Durante a realização da edição da Playlist Gamer, doações de R$ 10,00 ou múltiplo através do [LivePix](https://livepix.gg/mautavaress) estenderão a gameplay do jogo atual em mais 15 minutos (restrito a até duas extensões por jogo, no máximo). Fora da edição da Playlist Gamer, o doador que doar R$ 10,00 ou mais e especificar o jogo e plataforma que pedir através do LivePix assegurará o acréscimo de 15 minutos ao tempo de gameplay. Doações abaixo de R$ 10,00 renderão apenas 5 minutos de acréscimo.
 
 ## Observações importantes
 
