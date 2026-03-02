@@ -26,9 +26,9 @@ Acesse [este tópico do Discord](https://discord.com/channels/136698183335870477
 Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 
 1. Acesse o site do [LivePix](https://livepix.gg/mautavaress);  
-2. Preencha os campos necessários, não se esquecendo de especificar no campo "Mensagem" o jome do jogo E a plataforma.  
+2. Preencha os campos necessários, não se esquecendo de especificar no campo "Mensagem" o nome do jogo E a plataforma.  
 3. Clique em “Continuar”;  
-4. Realize o pagamento pelo app do seu banco;  
+4. Realize o pagamento pelo app do seu banco;
 5. Pronto. O pedido foi feito!
 
 <img width="428" height="672" alt="image" src="https://github.com/user-attachments/assets/230469c9-4b00-4172-b92d-d5f7e2563b59" />
