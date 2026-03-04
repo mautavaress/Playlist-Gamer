@@ -75,8 +75,9 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | Supervision |  | 20 |
 | TurboGrafx-16 / PC Engine | Exceto jogos de SuperGrafx, por enquanto (a lista de jogos de SuperGrafx, que **não** devem ser pedidos ainda) se encontra [aqui](https://retroachievements.org/hub/23406)) | 20 |
 | TurboGrafx-CD / PC Engine CD\* |  | 30 |
-| Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console **não** são permitidos. | 30 |
 | WonderSwan / WonderSwan Color\*|  | 20|
+
+<!--| Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console **não** são permitidos. | 30 |-->
 
 ## A respeito das coletâneas
 
