@@ -78,6 +78,21 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | WonderSwan / WonderSwan Color\*|  | 20|
 
 <!--| Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console **não** são permitidos. | 30 |-->
+## Observações importantes
+
+1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
+   - Jogos **não podem** depender de periférico específico, acelerômetro, microfone, câmera, nem de controles de toque ou de movimento, pois estas funcionalidades são difíceis de emular com apenas um controle;  
+   - Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
+   - Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
+2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, não recomendo pedir, pois pode haver problemas na hora de publicar VOD no YouTube.  
+3. Jogos consideravelmente ruins são permitidos, mas recomendo que não peçam, pois minha sanidade tem limites.  
+4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.  
+5. Recomendo que analise o conteúdo do jogo antes de pedir, para saber se atende às exigências acima.  
+6. Alguns jogos serão testados previamente em off, pra evitar imprevistos na hora de jogar ao vivo.  
+7. Em caso de indeferimento, os pontos serão reembolsados manualmente e o motivo do indeferimento será divulgado no tópico [“Indeferimentos” no servidor do Discord](https://discord.com/channels/1366981833358704771/1372195366924976240).  
+8. Você também pode acompanhar o status do pedido no [Planilhão do Maumau, seção “Playlist Gamer/Jogos para review - pedidos”](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=1804785880#gid=1804785880&range=A1).  
+9. Plataformas com \* indicam que nem todos os jogos poderão rodar, mesmo que atendam às exigências (devido a limitações de hardware ou de emulação). Exemplo: “Juiced” de PlayStation 2 não irá rodar no Xbox em Dev Mode, devido às constantes quedas de FR.  
+10. Mais plataformas poderão ser incluídas em breve, após alguns testes.
 
 ## A respeito das coletâneas
 
@@ -86,7 +101,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 1. O jogo seja jogável **somente** por meio da coletânea, não sendo possível jogar o jogo de forma individual ou standalone (exemplo: “Sonic The Fighters” via “Sonic Gems Collection”);  
 2. O jogo apresente melhorias gráficas ou melhorias de jogabilidade (exemplo: “Super Mario Bros: The Lost Levels” via “Super Mario All Stars”);
 3. Apenas 3 jogos de coletânea, por pedido, no máximo (o pedinte deverá especificar o(s) jogo(s) da coletânea a ser jogado);  
-4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes).  
+4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes-1).  
 5. Jogos que apresentem compilados de minigames ou que apresentem jogos ou minigames embutidos dentro de jogos principais **não** são sujeitos a estas regras específicas às "coletâneas" (exemplos: "PAC-MAN WORLD 2" e "WarioWare, Inc.: Mega Microgame$”), mas o pedinte deverá apurar e informar se o conteúdo já vem desbloqueado ou se é necessário desbloquear em algum momento.
 
 ## Benefícios para SUBs e VIPs
@@ -103,22 +118,6 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 ## Benefícios para quem doar
 
 Durante a realização da edição da Playlist Gamer, doações de R$ 10,00 ou múltiplo através do [LivePix](https://livepix.gg/mautavaress) estenderão a gameplay do jogo atual em mais 15 minutos (restrito a até duas extensões por jogo, no máximo). Fora da edição da Playlist Gamer, o doador que doar R$ 10,00 ou mais e especificar o jogo e plataforma que pedir através do LivePix assegurará o acréscimo de 15 minutos ao tempo de gameplay. Doações abaixo de R$ 10,00 renderão apenas 5 minutos de acréscimo.
-
-## Observações importantes
-
-1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
-   - Jogos **não podem** depender de periférico específico, acelerômetro, microfone, controles de toque ou câmera, pois estas funcionalidades são difíceis de emular com apenas um controle;  
-   - Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
-   - Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
-2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, não recomendo pedir, pois pode haver problemas na hora de publicar VOD no YouTube.  
-3. Jogos consideravelmente ruins são permitidos, mas recomendo que não peçam, pois minha sanidade tem limites.  
-4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.  
-5. Recomendo que analise o conteúdo do jogo antes de pedir, para saber se atende às exigências acima.  
-6. Alguns jogos serão testados previamente em off, pra evitar imprevistos na hora de jogar ao vivo.  
-7. Em caso de indeferimento, os pontos serão reembolsados manualmente e o motivo do indeferimento será divulgado no tópico [“Indeferimentos” no servidor do Discord](https://discord.com/channels/1366981833358704771/1372195366924976240).  
-8. Você também pode acompanhar o status do pedido no [Planilhão do Maumau, seção “Playlist Gamer/Jogos para review - pedidos”](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=1804785880#gid=1804785880&range=A1).  
-9. Plataformas com \* indicam que nem todos os jogos poderão rodar, mesmo que atendam às exigências (devido a limitações de hardware ou de emulação). Exemplo: “Juiced” de PlayStation 2 não irá rodar no Xbox em Dev Mode, devido às constantes quedas de FR.  
-10. Mais plataformas poderão ser incluídas em breve, após alguns testes.
 
 # Quando serão essas lives?
 
