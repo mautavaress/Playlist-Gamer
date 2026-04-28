@@ -22,9 +22,9 @@ Bem-vindos à "Playlist Gamer7", onde eu jogo os jogos que vocês me pediram ou 
 |12|`05/04/2026 15:44`|[GBC - **Woody Woodpecker**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=2838s "GBC - **Woody Woodpecker**")|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Woody%20Woodpecker.md)|
 |13|`05/04/2026 16:39`|[PS2 - **Choro Q HG 2**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=5086s "PS2 - **Choro Q HG 2**")|Em breve!|
 |14|`05/04/2026 17:47`|[PS2 - **HITMAN 2: Silent Assassin**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=8231s "PS2 - **HITMAN 2: Silent Assassin**")|Em breve!|
-|15|`05/04/2026 19:22`|[SAT - **SimCity 2000**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=11152s "SAT - **SimCity 2000**")|Em breve!|
-|16|`05/04/2026 19:46`|[SNES - **Lester the Unlikely**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=15378s "SNES - **Lester the Unlikely**")|Em breve!|
-|17|`05/04/2026 20:29`|[PS1 - **Wu-Tang: Shaolin Style**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=15378s "PS1 - **Wu-Tang: Shaolin Style**")|Em breve!|
+|15|`05/04/2026 19:22`|[SAT - **SimCity 2000**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=11152s "SAT - **SimCity 2000**")|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/SimCity%202000.md)|
+|16|`05/04/2026 19:46`|[SNES - **Lester the Unlikely**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=15378s "SNES - **Lester the Unlikely**")|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Lester%20The%20Unlikely.md)|
+|17|`05/04/2026 20:29`|[PS1 - **Wu-Tang: Shaolin Style**](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=15378s "PS1 - **Wu-Tang: Shaolin Style**")|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Wu-Tang%20-%20Shaolin%20Style.md)|
 
 
 ## Tier List
