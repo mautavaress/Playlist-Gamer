@@ -39,9 +39,9 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 ## Observações importantes
 
 1. Cada pedido custa 300 Phone Cards (pontos de canal da Twitch) ou 150 pontos no StreamElements. Se não tiver pontos suficientes, você pode acumular pontos assistindo às lives do Maumau em [https://twitch.tv/mautavaress](https://twitch.tv/mautavaress) .   
-2. Tenha certeza de ter um cadastro na Twitch e/ou no StreamElements para poder fazer o resgate. Se não tiver, basta usar sua conta da Twitch para fazer o login.  
-3. Não há limite de pedidos por usuário, mas, possivelmente, será preciso distribuir pedidos de mesmo usuário em várias lives para dar oportunidade a outros pedintes.  
-4. A recompensa pode ser resgatada tanto em live, quanto em off. No caso do pedido em off, eu olharei regularmente a fila de pedidos em ambos os sites.
+2. Tenha certeza de ter um cadastro na Twitch para poder fazer o resgate.  
+3. O limite de pedidos por usuário por edição é de 5 jogos via Twitch e de 5 jogos via Discord. Não há limite de pedidos via LivePix.  
+4. A recompensa da Twitch só poderá ser resgatada em live. Caso precise pedir em off, utilize o Discord ou LivePix.
 
 # Plataformas disponíveis (e tempo de gameplay)
 
@@ -68,12 +68,12 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | Nintendo 64\* |  | 20 |
 | PlayStation\* |  | 30 |
 | PlayStation 2\* | Jogos que **não** dependam de HDD para funcionar. | 30 |
-| PlayStation Portable\* | Jogos que **não** requeiram o Go\!Cam (confira este [link](https://retroachievements.org/hub/3325) com os jogos com suporte e que, portanto, devem ser evitados) | 30 |
+| PlayStation Portable\* | Jogos que **não** requeiram o Go\!Cam. | 30 |
 | Saturn\* |  | 30 |
 | Sega CD / Mega CD\* |  | 30 |
 | SNES / Super Famicom | Exceto jogos de Satellaview, por enquanto. | 20 |
 | Supervision |  | 20 |
-| TurboGrafx-16 / PC Engine | Exceto jogos de SuperGrafx, por enquanto (a lista de jogos de SuperGrafx, que **não** devem ser pedidos ainda) se encontra [aqui](https://retroachievements.org/hub/23406)) | 20 |
+| TurboGrafx-16 / PC Engine | Exceto jogos de SuperGrafx, por enquanto. | 20 |
 | TurboGrafx-CD / PC Engine CD\* |  | 30 |
 | WonderSwan / WonderSwan Color\*|  | 20|
 
