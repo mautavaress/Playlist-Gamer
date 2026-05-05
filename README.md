@@ -115,6 +115,10 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 > [!IMPORTANT]
 > É importante deixar claro que os benefícios para sub só valem para quem é/era sub no momento em que o jogo foi pedido via resgate ou publicação no Discord.
 
+> [!NOTE]
+> O tempo de gameplay só começa a valer após a primeira série de cutscenes ou diálogos, quando o streamer assume o controle do personagem. É uma medida para evitar que cutscenes e diálogos ocupem boa parte do tempo.
+> Para saber quanto tempo ainda resta para a gameplay terminar, utilize "!timers" (sem as aspas) no chat da Twitch. Infelizmente, não tem como exibir a contagem regressiva on-screen.
+
 ## Benefícios para quem doar
 
 Durante a realização da edição da Playlist Gamer, doações de R$ 10,00 ou múltiplo através do [LivePix](https://livepix.gg/mautavaress) estenderão a gameplay do jogo atual em mais 15 minutos (restrito a até duas extensões por jogo, no máximo). Fora da edição da Playlist Gamer, o doador que doar R$ 10,00 ou mais e especificar o jogo e plataforma que pedir através do LivePix assegurará o acréscimo de 15 minutos ao tempo de gameplay. Doações abaixo de R$ 10,00 renderão apenas 5 minutos de acréscimo.
