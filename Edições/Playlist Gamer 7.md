@@ -1,8 +1,10 @@
-![Playlist Gamer 7](https://i.postimg.cc/bryLWBth/Playlist_Gamer_7.png)
+![Playlist Gamer 7](https://i.postimg.cc/d0m4YmCn/Playlist-Gamer-7-(banner).jpg)
 
-# Playlist Gamer 7 (29/03, 2 e 5/04/2026)
+# Playlist Gamer 7
 
-Bem-vindos à "Playlist Gamer7", onde eu jogo os jogos que vocês me pediram ou recomendaram! Se quiserem ver mais conteúdo como este, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
+> 29 de março, 2 e 5 de abril de 2026
+
+Bem-vindos à "Playlist Gamer 7", onde eu jogo os jogos que vocês me pediram ou recomendaram! Se quiserem ver mais conteúdo como este, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 
 ## Jogos apresentados
 
