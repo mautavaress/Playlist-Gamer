@@ -84,9 +84,10 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
    - Jogos **não podem** depender de periférico específico, acelerômetro, microfone, câmera, nem de controles de toque ou de movimento, pois estas funcionalidades são difíceis de emular com apenas um controle;  
    - Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
    - Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
-2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, não recomendo pedir, pois pode haver problemas na hora de publicar VOD no YouTube.  
+2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, não recomendo pedir, pois pode haver problemas na hora de publicar VOD no YouTube.
 3. Jogos consideravelmente ruins são permitidos, mas recomendo que não peçam, pois minha sanidade tem limites.  
-4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.  
+4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.
+5. À exceção de jogos de Nintendo 64, os jogos **não** podem exigir instalação de núcleo modificado do RetroArch para funcionar (já uso núcleo modificado para rodar jogos do Nintendo 64).
 5. Recomendo que analise o conteúdo do jogo antes de pedir, para saber se atende às exigências acima.  
 6. Alguns jogos serão testados previamente em off, pra evitar imprevistos na hora de jogar ao vivo.  
 7. Em caso de indeferimento, os pontos serão reembolsados manualmente e o motivo do indeferimento será divulgado no tópico [“Indeferimentos” no servidor do Discord](https://discord.com/channels/1366981833358704771/1372195366924976240).  
