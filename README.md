@@ -38,8 +38,8 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 
 ## Observações importantes
 
-1. Cada pedido custa 300 Phone Cards (pontos de canal da Twitch) ou 150 pontos no StreamElements. Se não tiver pontos suficientes, você pode acumular pontos assistindo às lives do Maumau em [https://twitch.tv/mautavaress](https://twitch.tv/mautavaress) .   
-2. Tenha certeza de ter um cadastro na Twitch para poder fazer o resgate.  
+1. Cada pedido custa até 300 Phone Cards (pontos de canal da Twitch), dependendo do tema. Se não tiver pontos suficientes, você pode acumular pontos assistindo às lives do Maumau em [https://twitch.tv/mautavaress](https://twitch.tv/mautavaress) .   
+2. Tenha certeza de ter um cadastro na Twitch para poder fazer o resgate.
 3. O limite de pedidos por usuário por edição é de 5 jogos via Twitch e de 5 jogos via Discord. Não há limite de pedidos via LivePix.  
 4. A recompensa da Twitch só poderá ser resgatada em live. Caso precise pedir em off, utilize o Discord ou LivePix.
 
