@@ -1,6 +1,6 @@
-# Playlist Gamer - Vol. 3 (23/08/2025)
-## Vídeo
-[![Assista aqui](https://img.youtube.com/vi/prKi_Qt6Xh4/0.jpg)](https://www.youtube.com/watch?v=prKi_Qt6Xh4)
+![Playlist Gamer - Vol. 3](https://i.postimg.cc/J7FXn6bw/Playlist-Gamer-3-(banner).jpg)
+# Playlist Gamer - Vol. 3
+> 23 de agosto de 2025
 
 Bem-vindos à "Playlist Gamer - Vol. 3", onde eu jogo os jogos que vocês pedem! Se quiserem ver mais conteúdo como este, me siga na "[Twitch](https://twitch.tv/mautavaress)".
 ## Jogos apresentados

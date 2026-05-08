@@ -1,6 +1,6 @@
-# Playlist Gamer - Vol. 5 (14/09/2025)
-## Vídeo
-[![Assista aqui](https://img.youtube.com/vi/_fEa1tYUHwc/0.jpg)](https://www.youtube.com/watch?v=_fEa1tYUHwc)
+![Playlist Gamer - Vol. 5](https://i.postimg.cc/13Hr70N0/Playlist-Gamer-5-(banner).jpg)
+# Playlist Gamer - Vol. 5 
+> 14 de setembro de 2025
 
 Bem-vindos à "Playlist Gamer - Vol. 5", onde eu jogo os jogos que vocês pedem! Se quiserem ver mais conteúdo como este, me siga na "[Twitch](https://twitch.tv/mautavaress)".
 ## Jogos apresentados

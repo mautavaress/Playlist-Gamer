@@ -1,4 +1,6 @@
-# Playlist Gamer 6 (6 e 7/12/2025)
+![Playlist Gamer 6](https://i.postimg.cc/kGpBRZ0n/Playlist-Gamer-6-(banner).jpg)
+# Playlist Gamer 6
+> 6 e 7 de dezembro de 2025
 
 Bem-vindos à "Playlist Gamer 6", onde eu jogo os jogos que vocês me pediram ou recomendaram! Se quiserem ver mais conteúdo como este, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 

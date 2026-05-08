@@ -1,6 +1,6 @@
-# Playlist Gamer - Vol. 2 (16/08/2025)
-## Vídeo
-[![Assista aqui](https://img.youtube.com/vi/ac019-OWR_M/0.jpg)](https://www.youtube.com/watch?v=ac019-OWR_M)
+![Playlist Gamer - Vol. 2](https://i.postimg.cc/T1s334Sg/Playlist-Gamer-2-(banner).jpg)
+# Playlist Gamer - Vol. 2
+> 16 de agosto de 2025
 
 Bem-vindos à "Playlist Gamer - Vol. 2", onde eu jogo os jogos que vocês pedem! Se quiserem ver mais conteúdo como este, me siga na "[Twitch](https://twitch.tv/mautavaress)".
 ## Jogos apresentados
