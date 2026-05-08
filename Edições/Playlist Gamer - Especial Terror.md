@@ -5,13 +5,14 @@
 Bem-vindos à "Playlist Gamer - Especial Terror", onde eu jogo os jogos de terror, suspense, sobrevivência ou gore que vocês pediram ou recomendaram! Se quiserem ver mais conteúdo como este, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 
 ## Jogos apresentados
-
+### 25/10/2025
 - [**Resident Evil 1.5 - Magic Zombie Door Fixed**](https://www.youtube.com/watch?v=knLu-8HYqJM&t=368s "**Resident Evil 1.5 - Magic Zombie Door Fixed**") (PlayStation)
 - [**Nosferatu**](https://www.youtube.com/watch?v=knLu-8HYqJM&t=2767s "**Nosferatu**") (SNES / Super Famicom)
 - [**Splatterhouse 3**](https://www.youtube.com/watch?v=knLu-8HYqJM&t=5718s "**Splatterhouse 3**") (Mega Drive / Genesis)
 - [**Fatal Labyrinth**](https://www.youtube.com/watch?v=knLu-8HYqJM&t=8830s) (Mega Drive / Genesis)
 - [**Death Jr.**](https://www.youtube.com/watch?v=knLu-8HYqJM&t=11744s "**Death Jr.**") (PlayStation Portable)
 - [**Dante's Inferno**](https://www.twitch.tv/videos/2602863020) (PlayStation Portable)
+### 9/11/2025
 - [**Castlevania II: Belmont's Revenge**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=62s) (Game Boy)
 - [**Metroid Fusion**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=2967s) (Game Boy Advance)
 - [**Resident Evil CODE:Veronica**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=6256s) (Dreamcast)

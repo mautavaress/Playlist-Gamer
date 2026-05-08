@@ -5,7 +5,7 @@
 Bem-vindos à "Playlist Gamer 6", onde eu jogo os jogos que vocês me pediram ou recomendaram! Se quiserem ver mais conteúdo como este, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 
 ## Jogos apresentados
-
+## 6/12/2025
 - [**Pokémon Conquest**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=139s) (DS)
 - [**Dr. MiniGames**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=3348s) (PlayStation Portable)
 - [**Need for Speed: Porsche Unleashed**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=6921s) (Game Boy Advance)
@@ -14,6 +14,7 @@ Bem-vindos à "Playlist Gamer 6", onde eu jogo os jogos que vocês me pediram ou
 - **Pokémon TCG Neo** (rom hack de "Pokémon Trading Card Game") (Game Boy Color) ([Parte 1](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=16332s) / [Parte 2](https://www.youtube.com/watch?v=T1utGahmGF0))
 - [**Cosmic Race**](https://www.youtube.com/watch?v=T1utGahmGF0&t=2336s) (PlayStation)
 - [**Kaette-kitta Cyborg Kuro-chan**](https://www.youtube.com/watch?v=T1utGahmGF0&t=4580s) (PlayStation)
+## 7/12/2025
 - [**Monochrome Racing**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=38s) (PlayStation Portable)
 - [**Kaizou Choujin Shubibinman Zero**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=2155s) (SNES / Super Famicom)
 - [**Gex 3: Deep Cover Gecko**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=4429s) (PlayStation)
