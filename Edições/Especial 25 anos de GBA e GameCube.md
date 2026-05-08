@@ -1,6 +1,7 @@
 ![Playlist Gamer Especial](https://i.postimg.cc/ydmHRmsV/Playlist-Gamer-GBA-GC-(banner).jpg)
 
-# Especial 25 anos do GBA e do GameCube (15, 16 e 18 de fevereiro de 2026)
+# Especial 25 anos do GBA e do GameCube
+> 15, 16 e 18 de fevereiro de 2026
 
 Bem-vindos à "Playlist Gamer Especial - 25 anos do GBA e do GameCube", onde eu jogo os jogos que vocês me pediram ou recomendaram, em comemoração aos 25 anos dos dois consoles! Se quiserem ver mais conteúdo como este, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 
