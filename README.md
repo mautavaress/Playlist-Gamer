@@ -48,6 +48,7 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | Plataforma | Exigências (devido às limitações de hardware ou de emulação) | Tempo de jogo (minutos) |
 | :---- | :---- | :---- |
 | 32X\* |  | 20 |
+| 3DO\* |  | 30 |
 | Arcade\* | Jogos que possam ser rodados no FBNeo, excluindo, no caso, jogos de NAOMI 1 e 2, AtomisWave e Sega Model 1, 2 e 3\. | 20 |
 | Arduboy | Jogos que **não** sejam de Arduboy FX (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
 | Atari 2600 |  | 20 |
@@ -65,7 +66,7 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | Neo Geo |  | 20 |
 | Neo Geo Pocket / Neo Geo Pocket Color |  | 20 |
 | NES / Famicom |  | 20 |
-| Nintendo 64\* |  | 20 |
+| Nintendo 64\* | Jogos que **não** sejam de Nintendo 64 DD (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
 | PlayStation\* |  | 30 |
 | PlayStation 2\* | Jogos que **não** dependam de HDD para funcionar. | 30 |
 | PlayStation Portable\* | Jogos que **não** requeiram o Go\!Cam. | 30 |
