@@ -25,7 +25,7 @@ Bem-vindos à "Playlist Gamer 6", onde eu jogo os jogos que vocês me pediram ou
 
 ## Tier List
 
-![Playlist-Gamer-6-Tier-List.png](https://i.postimg.cc/0yFMMbRh/Playlist-Gamer-6-Tier-List.png)
+<img width="3087" height="1731" alt="Playlist Gamer 6 - Tier List" src="https://github.com/user-attachments/assets/f8f86317-a5ab-43bd-8df7-5f345a374839" />
 
 ## Agradecimentos especiais aos pedintes
 - Mats ([Twitch](https://twitch.tv/matsmz) / [YouTube](https://www.youtube.com/@matsmz))
