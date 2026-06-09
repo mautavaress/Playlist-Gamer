@@ -32,7 +32,7 @@ Bem-vindos à "Playlist Gamer Especial - 25 anos do GBA e do GameCube", onde eu 
 
 ## Tier List
 
-[![Playlist-Gamer-GBA-GC-Tier-List.png](https://i.postimg.cc/htdQ2dY3/Playlist-Gamer-GBA-GC-Tier-List.png)](https://postimg.cc/sM32Xvsp)
+<img width="3840" height="2451" alt="Playlist Gamer GBA-GC - Tier List" src="https://github.com/user-attachments/assets/482a74a2-f497-4c21-abfc-e20f42c556cc" />
 
 ## Agradecimentos especiais aos pedintes
 - Mats ([Twitch](https://twitch.tv/matsmz) / [YouTube](https://www.youtube.com/@matsmz))
