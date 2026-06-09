@@ -33,7 +33,8 @@ Bem-vindos ao "RACE DAY: A Playlist Gamer das Corridas". Aqui, eu joguei os jogo
 
 ## Tier List
 
-[![RACE-DAY-Tier-List.png](https://i.postimg.cc/3JK0jt4j/RACE-DAY-Tier-List.png)](https://postimg.cc/DmMzndcm)
+<img width="2151" height="2463" alt="Playlist Gamer - Especial Terror - Tier List" src="https://github.com/user-attachments/assets/053c804a-cf0b-41fe-ad28-94e3c8643392" />
+
 
 ## Agradecimentos especiais aos pedintes
 - [Ito](https://www.youtube.com/@ito_masters)
