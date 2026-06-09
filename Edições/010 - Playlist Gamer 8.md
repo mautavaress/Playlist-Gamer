@@ -27,7 +27,8 @@ Bem-vindos à "Playlist Gamer 8", onde eu jogo os jogos que vocês me pediram ou
 
 ## Tier List
 
-[![Playlist-Gamer-8-tier-list.png](https://i.postimg.cc/bv5hzVY5/Playlist-Gamer-8-tier-list.png)](https://postimg.cc/5H8Gg3C5)
+<img width="3840" height="1731" alt="Playlist Gamer 8 - tier list" src="https://github.com/user-attachments/assets/8cfd0aa2-01e2-41e3-a93e-b5371b5b205f" />
+
 
 ## Agradecimentos especiais aos pedintes
 - Mats ([Twitch](https://twitch.tv/matsmz) / [YouTube](https://www.youtube.com/@matsmz))
