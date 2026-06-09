@@ -31,7 +31,7 @@ Bem-vindos à "Playlist Gamer 7", onde eu jogo os jogos que vocês me pediram ou
 
 ## Tier List
 
-[![Playlist_Gamer_7_Tier_List.png](https://i.postimg.cc/FRmpJL1N/Playlist_Gamer_7_Tier_List.png)](https://postimg.cc/kV1K0Dxp)
+<img width="3840" height="2829" alt="Playlist Gamer 7 - Tier List" src="https://github.com/user-attachments/assets/06c439ee-f12b-4dd6-8013-db895e1980ec" />
 
 ## Agradecimentos especiais aos pedintes
 - Mats ([Twitch](https://twitch.tv/matsmz) / [YouTube](https://www.youtube.com/@matsmz))
