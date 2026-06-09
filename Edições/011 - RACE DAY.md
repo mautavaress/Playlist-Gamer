@@ -1,4 +1,5 @@
-<img width="960" height="270" alt="image" src="https://i.postimg.cc/KjpwPxCt/RACE-DAY-(banner).png" />
+<img width="960" height="270" alt="RACE-DAY-(banner)" src="https://github.com/user-attachments/assets/ce527ffc-ee94-4279-93b2-feb326bb5dc7" />
+
 
 # RACE DAY: A Playlist Gamer das Corridas
 
