@@ -6,7 +6,7 @@
 
 Bem-vindos à MELHOR PLAYLIST GAMER DO MUNDO, onde eu jogo os jogos do Sonic que vocês me pediram ou recomendaram, em comemoração aos 35 anos do OURIÇO MAIS FAMOSO DO MUNDO! A edição aconteceu nos dias 14 e 21 de junho de 2026 e contou com 15 jogos, sendo 3 deles, hacks e homebrew.
 
-Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar em live especial, me siga na ["Twitch"].(https://twitch.tv/mautavaress)!
+Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar em live especial, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 
 ## Jogos apresentados
 
