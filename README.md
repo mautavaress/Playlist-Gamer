@@ -54,7 +54,7 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | Atari 2600 |  | 20 |
 | Atari 7800 |  | 20 |
 | Dreamcast\* |  | 30 |
-| DS\* | Jogos que **não** sejam de DSi (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
+| DS\* | Apenas jogos que façam parte desta [lista](https://retroachievements.org/hub/22748?page%5Bsize%5D=100) serão aceitos. Jogos fora desta lista estarão sujeitos à análise. | 20 |
 | Famicom Disk System\* |  | 30 |
 | Game Boy |  | 20 |
 | Game Boy Advance |  | 20 |
@@ -69,7 +69,7 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | Nintendo 64\* | Jogos que **não** sejam de Nintendo 64 DD (poderão ser permitidos em breve, após eu realizar alguns testes) | 20 |
 | PlayStation\* |  | 30 |
 | PlayStation 2\* | Jogos que **não** dependam de HDD para funcionar. | 30 |
-| PlayStation Portable\* | Jogos que **não** requeiram o Go\!Cam. | 30 |
+| PlayStation Portable\* |  | 30 |
 | Saturn\* |  | 30 |
 | Sega CD / Mega CD\* |  | 30 |
 | SNES / Super Famicom | Exceto jogos de Satellaview, por enquanto. | 20 |
@@ -78,9 +78,13 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | TurboGrafx-CD / PC Engine CD\* |  | 30 |
 | WonderSwan / WonderSwan Color\*|  | 20|
 
-<!--| Wii\* | Apenas jogos que sejam compatíveis com o Classic Controller ou com GameCube Controller são permitidos (consulte este [link](https://ultimatepopculture.fandom.com/wiki/List_of_Wii_games_with_traditional_control_schemes) para ver os jogos compatíveis). **IMPORTANTE:** Jogos do Virtual Console **não** são permitidos. | 30 |-->
+<!--| Wii\* | Apenas jogos que façam parte desta [lista](https://retroachievements.org/hub/17723?page%5Bsize%5D=100) serão aceitos. Jogos fora desta lista estarão sujeitos à análise. | 30 |-->
+
 ## Observações importantes
 
+> [!IMPORTANT]
+> Você será **inteiramente responsável** pelo conteúdo dos jogos que você for pedir. Leia as observações a seguir antes de mandar.
+ 
 1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
    - Jogos **não podem** depender de periférico específico, acelerômetro, microfone, câmera, nem de controles de toque ou de movimento, pois estas funcionalidades são difíceis de emular com apenas um controle;  
    - Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
@@ -103,7 +107,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 1. O jogo seja jogável **somente** por meio da coletânea, não sendo possível jogar o jogo de forma individual ou standalone (exemplo: “Sonic The Fighters” via “Sonic Gems Collection”);  
 2. O jogo apresente melhorias gráficas ou melhorias de jogabilidade (exemplo: “Super Mario Bros: The Lost Levels” via “Super Mario All Stars”);
 3. Apenas 3 jogos de coletânea, por pedido, no máximo (o pedinte deverá especificar o(s) jogo(s) da coletânea a ser jogado);  
-4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes-1).  
+4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes).  
 5. Jogos que apresentem compilados de minigames ou que apresentem jogos ou minigames embutidos dentro de jogos principais **não** são sujeitos a estas regras específicas às "coletâneas" (exemplos: "PAC-MAN WORLD 2" e "WarioWare, Inc.: Mega Microgame$”), mas o pedinte deverá apurar e informar se o conteúdo já vem desbloqueado ou se é necessário desbloquear em algum momento.
 
 ## Benefícios para SUBs e VIPs
@@ -111,7 +115,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 |VIP|SUB T1/Prime|SUB T2|SUB T3|
 |-|-|-|-|
 |Acréscimo de 10 minutos|Acréscimo de 15 minutos (25 se VIP)|Acréscimo de 15 minutos (25 se VIP)|Acréscimo de 15 minutos (25 se VIP)|
-|||O dobro de chance de o jogo sair na roleta|O triplo de chance de sair na roleta|
+|||O dobro de chance de o jogo ser sorteado|O triplo de chance de ser sorteado|
 ||||Prioridade total em um dos jogos|
 
 > [!IMPORTANT]
@@ -131,7 +135,7 @@ Assim que tivermos, ao menos, 8 jogos pedidos, será montado um cronograma com a
 
 # Como será a ordem dos jogos?
 
-A ordem dos jogos será definida por roleta no Wheel of Names. Subs tier 2 terão vantagens no sorteio, conforme explicado [aqui](#benefícios-para-subs-e-vips).
+A ordem dos jogos será definida por sorteio. Subs tier 2 terão vantagens no sorteio, conforme explicado [aqui](#benefícios-para-subs-e-vips).
 
 # Estou em dúvida do que pedir. Tem alguma sugestão?
 
