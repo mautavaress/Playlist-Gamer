@@ -107,7 +107,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 1. O jogo seja jogável **somente** por meio da coletânea, não sendo possível jogar o jogo de forma individual ou standalone (exemplo: “Sonic The Fighters” via “Sonic Gems Collection”);  
 2. O jogo apresente melhorias gráficas ou melhorias de jogabilidade (exemplo: “Super Mario Bros: The Lost Levels” via “Super Mario All Stars”);
 3. Apenas 3 jogos de coletânea, por pedido, no máximo (o pedinte deverá especificar o(s) jogo(s) da coletânea a ser jogado);  
-4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes).  
+4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes-1).  
 5. Jogos que apresentem compilados de minigames ou que apresentem jogos ou minigames embutidos dentro de jogos principais **não** são sujeitos a estas regras específicas às "coletâneas" (exemplos: "PAC-MAN WORLD 2" e "WarioWare, Inc.: Mega Microgame$”), mas o pedinte deverá apurar e informar se o conteúdo já vem desbloqueado ou se é necessário desbloquear em algum momento.
 
 ## Benefícios para SUBs e VIPs
@@ -146,7 +146,7 @@ Você pode acessar o meu [perfil no RankOne](https://www.rankone.global/mautavar
 Sim e não! Pra deixar claro, se o jogo foi incluído no [histórico de jogos do Planilhão](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=193115686#gid=193115686&range=A1), ele **não** poderá mais ser pedido, mas você **pode** pedir “bis” de duas maneiras:
 
 1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](#plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#a-respeito-das-coletâneas);  
-2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de conteúdo](#observações-importantes).
+2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de conteúdo](#observações-importantes-1).
 3. Desafio que possa ser cumprido em 20 minutos, como "vencer um chefe sem levar dano".
 
 > [!IMPORTANT]
