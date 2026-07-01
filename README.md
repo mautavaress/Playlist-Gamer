@@ -43,7 +43,12 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 3. O limite de pedidos por usuário por edição é de 5 jogos via Twitch e de 5 jogos via Discord. Não há limite de pedidos via LivePix.  
 4. A recompensa da Twitch só poderá ser resgatada em live. Caso precise pedir em off, utilize o Discord ou LivePix.
 
-# Plataformas disponíveis (e tempo de gameplay)
+# Regras
+
+## Plataformas disponíveis (e tempo de gameplay)
+
+> [!IMPORTANT]
+> Atente-se às regras específicas de plataforma, listadas na tabela a seguir. Plataformas marcadas com \* indicam que nem todos os jogos poderão rodar, mesmo que atendam às exigências (devido a limitações de hardware ou de emulação). Exemplo: “Juiced” de PlayStation 2 não irá rodar no Xbox em Dev Mode, devido às constantes quedas de FR. Mais plataformas poderão ser incluídas em breve, após alguns testes.
 
 | Plataforma | Exigências (devido às limitações de hardware ou de emulação) | Tempo de jogo (minutos) |
 | :---- | :---- | :---- |
@@ -80,34 +85,33 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 
 <!--| Wii\* | Apenas jogos que façam parte desta [lista](https://retroachievements.org/hub/17723?page%5Bsize%5D=100) serão aceitos. Jogos fora desta lista estarão sujeitos à análise. | 30 |-->
 
-## Observações importantes
+## Regras de funcionalidade
+
+1. Jogos **não podem** depender de periférico específico, acelerômetro, microfone, câmera, nem de controles de toque ou de movimento, pois estas funcionalidades são difíceis de emular com apenas um controle.
+2. Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional.
+3. As funcionalidades listadas acima devem ser estritamente opcionais, caso o jogo tenha suporte.
+4. À exceção de jogos de Nintendo 64, os jogos **não** podem exigir instalação de núcleo modificado do RetroArch para funcionar (já uso núcleo modificado para rodar jogos do Nintendo 64).
+5. Alguns jogos serão testados previamente em off, pra evitar imprevistos na hora de jogar ao vivo.
+
+## Regras de conteúdo
 
 > [!IMPORTANT]
-> Você será **inteiramente responsável** pelo conteúdo dos jogos que você for pedir. Leia as observações a seguir antes de mandar.
+> Você será **inteiramente responsável** pelo conteúdo dos jogos que você for pedir. Leia as regras a seguir antes de mandar.
  
-1. Independentemente das exigências específicas de plataforma, os pedidos de jogos devem seguir as seguintes exigências gerais:  
-   - Jogos **não podem** depender de periférico específico, acelerômetro, microfone, câmera, nem de controles de toque ou de movimento, pois estas funcionalidades são difíceis de emular com apenas um controle;  
-   - Jogos **não podem** depender de conexão com a internet, pois necessitaria de configuração adicional;  
-   - Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as regras da Twitch, violam as leis brasileiras.  
-2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, não recomendo pedir, pois pode haver problemas na hora de publicar VOD no YouTube.
-3. Jogos consideravelmente ruins são permitidos, mas recomendo que não peçam, pois minha sanidade tem limites.  
+1. Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as [regras da Twitch](https://help.twitch.tv/s/article/list-of-prohibited-games), violam as leis brasileiras.
+2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, recomenda-se não pedir, pois pode haver problemas na hora de publicar VOD no YouTube.
+3. Jogos consideravelmente ruins são permitidos, recomenda-se não pedir, pois minha sanidade tem limites.  
 4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.
-5. À exceção de jogos de Nintendo 64, os jogos **não** podem exigir instalação de núcleo modificado do RetroArch para funcionar (já uso núcleo modificado para rodar jogos do Nintendo 64).
-5. Recomendo que analise o conteúdo do jogo antes de pedir, para saber se atende às exigências acima.  
-6. Alguns jogos serão testados previamente em off, pra evitar imprevistos na hora de jogar ao vivo.  
-7. Em caso de indeferimento, os pontos serão reembolsados manualmente e o motivo do indeferimento será divulgado no tópico [“Indeferimentos” no servidor do Discord](https://discord.com/channels/1366981833358704771/1372195366924976240).  
-8. Você também pode acompanhar o status do pedido no [Planilhão do Maumau, seção “Playlist Gamer/Jogos para review - pedidos”](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=1804785880#gid=1804785880&range=A1).  
-9. Plataformas com \* indicam que nem todos os jogos poderão rodar, mesmo que atendam às exigências (devido a limitações de hardware ou de emulação). Exemplo: “Juiced” de PlayStation 2 não irá rodar no Xbox em Dev Mode, devido às constantes quedas de FR.  
-10. Mais plataformas poderão ser incluídas em breve, após alguns testes.
+5. Recomendo que analise o conteúdo do jogo antes de pedir, para saber se atende às exigências acima. 
 
-## A respeito das coletâneas
+## Regras de jogos de coletâneas
 
 Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** nos seguintes casos:
 
 1. O jogo seja jogável **somente** por meio da coletânea, não sendo possível jogar o jogo de forma individual ou standalone (exemplo: “Sonic The Fighters” via “Sonic Gems Collection”);  
 2. O jogo apresente melhorias gráficas ou melhorias de jogabilidade (exemplo: “Super Mario Bros: The Lost Levels” via “Super Mario All Stars”);
 3. Apenas 3 jogos de coletânea, por pedido, no máximo (o pedinte deverá especificar o(s) jogo(s) da coletânea a ser jogado);  
-4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay) e [conteúdo](#observações-importantes-1).  
+4. As coletâneas devem seguir as [regras de plataforma](#plataformas-disponíveis-e-tempo-de-gameplay), [funcionalidade](#regras-de-funcionalidade) e [conteúdo](#regras-de-conteúdo).  
 5. Jogos que apresentem compilados de minigames ou que apresentem jogos ou minigames embutidos dentro de jogos principais **não** são sujeitos a estas regras específicas às "coletâneas" (exemplos: "PAC-MAN WORLD 2" e "WarioWare, Inc.: Mega Microgame$”), mas o pedinte deverá apurar e informar se o conteúdo já vem desbloqueado ou se é necessário desbloquear em algum momento.
 
 ## Benefícios para SUBs e VIPs
@@ -129,29 +133,37 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 
 Durante a realização da edição da Playlist Gamer, doações de R$ 10,00 ou múltiplo através do [LivePix](https://livepix.gg/mautavaress) estenderão a gameplay do jogo atual em mais 15 minutos (restrito a até duas extensões por jogo, no máximo). Fora da edição da Playlist Gamer, o doador que doar R$ 10,00 ou mais e especificar o jogo e plataforma que pedir através do LivePix assegurará o acréscimo de 15 minutos ao tempo de gameplay. Doações abaixo de R$ 10,00 renderão apenas 5 minutos de acréscimo.
 
-# Quando serão essas lives?
+# Perguntas frequentes
+
+## Como sei se o meu jogo foi aceito?
+
+Você pode acompanhar o status do pedido no [Planilhão do Maumau, seção “Playlist Gamer - pedidos”](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=1804785880#gid=1804785880&range=A1). Jogos marcados como "Indeferido" significam que não foram aprovados de acordo com as regras ou que, após alguns testes, apresentaram desempenho insatisfatório (devido à emulação).
+
+Em caso de indeferimento, os pontos serão reembolsados manualmente, caso tenha pedido pela Twitch.
+
+## Quando serão essas lives?
 
 Assim que tivermos, ao menos, 8 jogos pedidos, será montado um cronograma com a lista dos jogos e a live será agendada. Haverá uma quantidade máxima de jogos para cada live, que terá que respeitar a duração da live, que será de 3 a 4 horas. Para saber quando ocorrerá a live da Playlist Gamer, acesse a agenda das lives por este [link](https://calendar.google.com/calendar/embed?src=d98950dac362d1dd9b98507d7846f85f830954c50299baa1ff411bc28203e063%40group.calendar.google.com). A frequência dessas lives (se vai ser mensal, semanal ou quinzenal) dependerá do tamanho da fila de pedidos.
 
-# Como será a ordem dos jogos?
+## Como será a ordem dos jogos?
 
-A ordem dos jogos será definida por sorteio. Subs tier 2 terão vantagens no sorteio, conforme explicado [aqui](#benefícios-para-subs-e-vips).
+A ordem dos jogos será definida por sorteio. Subs tier 2 e 3 terão vantagens no sorteio, conforme explicado [aqui](#benefícios-para-subs-e-vips).
 
-# Estou em dúvida do que pedir. Tem alguma sugestão?
+## Estou em dúvida do que pedir. Tem alguma sugestão?
 
 Você pode acessar o meu [perfil no RankOne](https://www.rankone.global/mautavaress) e navegar até a seção “Want to Play”. Lá tem algumas opções de jogos que quero jogar futuramente.
 
-# Eu posso pedir esse jogo de novo?
+## Eu posso pedir esse jogo de novo?
 
 Sim e não! Pra deixar claro, se o jogo foi incluído no [histórico de jogos do Planilhão](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=193115686#gid=193115686&range=A1), ele **não** poderá mais ser pedido, mas você **pode** pedir “bis” de duas maneiras:
 
 1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](#plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#a-respeito-das-coletâneas);  
-2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de conteúdo](#observações-importantes-1).
+2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de funcionalidade](#regras-de-funcionalidade) [e de conteúdo](#regras-de-conteúdo).
 3. Desafio que possa ser cumprido em 20 minutos, como "vencer um chefe sem levar dano".
 
 > [!IMPORTANT]
 > Desafios só valem para este caso. Não serão aceitos desafios de jogo que eu nunca tenha jogado.
 
-# Vai zerar alguns desses jogos futuramente?
+## Vai zerar alguns desses jogos futuramente?
 
 Apenas se eu gostar bastante, mas não garanto, pois a ideia da Playlist Gamer é experimentar e descobrir jogos.
