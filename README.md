@@ -157,7 +157,7 @@ Você pode acessar o meu [perfil no RankOne](https://www.rankone.global/mautavar
 
 Sim e não! Pra deixar claro, se o jogo foi incluído no [histórico de jogos do Planilhão](https://docs.google.com/spreadsheets/d/114cWBkgHwzvcMvXHa03njExjfGiX9k1Oco6qMMEgz7A/edit?gid=193115686#gid=193115686&range=A1), ele **não** poderá mais ser pedido, mas você **pode** pedir “bis” de duas maneiras:
 
-1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](#plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#a-respeito-das-coletâneas);  
+1. Jogo do mesmo título, mas de plataforma diferente, desde que a plataforma esteja na [lista](#plataformas-disponíveis-e-tempo-de-gameplay) e que, se for de coletânea, deverá estar de acordo com as [regras específicas para coletâneas](#regras-de-jogos-de-coletâneas);  
 2. Rom hack baseado nesse jogo, desde que esteja de acordo com as [regras de funcionalidade](#regras-de-funcionalidade) [e de conteúdo](#regras-de-conteúdo).
 3. Desafio que possa ser cumprido em 20 minutos, como "vencer um chefe sem levar dano".
 
