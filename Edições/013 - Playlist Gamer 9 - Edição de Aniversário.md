@@ -25,15 +25,16 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 |11|`28/06/2026 17:59`|[MD - **Mamono Hunter Yōko: Dai 7 no Keishō**](https://www.youtube.com/watch?v=bOzTATBZNuE&t=10290s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Mamono%20Hunter%20Youko%20-%20Dai-7%20no%20Keishou.md)|
 |12|`28/06/2026 18:25`|[DC - **Rent A Hero No.1**](https://www.youtube.com/watch?v=bOzTATBZNuE&t=12116s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Rent%20A%20Hero%20No.1.md)|
 |13|`28/06/2026 19:28`|[SAT - **Slam Dunk: I Love Basketball**](https://www.youtube.com/watch?v=bOzTATBZNuE&t=15801s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Slam%20Dunk%20-%20I%20Love%20Basketball.md)|
-|14|`04/07/2026 15:08`|[PS2 - **XIII**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=475s)|Em breve!|
-|15|`04/07/2026 15:55`|[PS1 - **Ford Racing**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=2896s)|Em breve!|
-|16|`04/07/2026 17:01`|[DS - **Nicktoons MLB**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=7160s)|Em breve!|
-|17|`04/07/2026 18:09`|[N64 - **Getter Love!!: Chō Renai Party Game Tanjō**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=11018s)|Em breve!|
+|14|`04/07/2026 15:08`|[PS2 - **XIII**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=475s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/XIII%20(2003).md)|
+|15|`04/07/2026 15:55`|[PS1 - **Ford Racing**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=2896s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Ford%20Racing.md)|
+|16|`04/07/2026 17:01`|[DS - **Nicktoons MLB**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=7160s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Nicktoons%20MLB.md)|
+|17|`04/07/2026 18:09`|[N64 - **Getter Love!!: Chō Renai Party Game Tanjō**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=11018s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Getter%20Love%20-%20Chou%20Renai%20Party%20Game%20Tanjou.md)|
 |18|`04/07/2026 19:13`|[MD - **Crystal's Pony Tale**](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=14941s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Crystal's%20Pony%20Tale.md)|
 
 ## Tier List
 
-[![Playlist-Gamer-9-Tier-List.png](https://i.postimg.cc/0jLXFhg6/Playlist-Gamer-9-Tier-List.png)](https://postimg.cc/1VrKNC3P)
+<img width="2643" height="2097" alt="Playlist Gamer 9 - Tier List" src="https://github.com/user-attachments/assets/b8f7e8ef-40fc-45a7-ac33-8a5da51dccb0" />
+
 
 ## Agradecimentos especiais aos pedintes
 - [Ito](https://www.youtube.com/@ito_masters)
