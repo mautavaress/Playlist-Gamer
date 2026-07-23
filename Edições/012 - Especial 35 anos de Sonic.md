@@ -1,4 +1,5 @@
-[![Playlist-Gamer-Sonic-(Banner).png](https://i.postimg.cc/mkHxPVvP/Playlist-Gamer-Sonic-(Banner).png)](https://postimg.cc/Mfq340Kw)
+<img width="960" height="293" alt="image" src="https://github.com/user-attachments/assets/8f1c411d-89ec-4b5b-b862-1f53890b56fe" />
+
 
 # A MELHOR PLAYLIST GAMER DO MUNDO
 
