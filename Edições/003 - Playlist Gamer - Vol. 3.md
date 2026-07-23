@@ -1,4 +1,5 @@
-![Playlist Gamer - Vol. 3](https://i.postimg.cc/J7FXn6bw/Playlist-Gamer-3-(banner).jpg)
+<img width="960" height="270" alt="image" src="https://github.com/user-attachments/assets/bf297bd4-7377-424c-9dde-8067d67787ea" />
+
 # Playlist Gamer - Vol. 3
 > 23 de agosto de 2025
 
