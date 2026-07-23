@@ -1,4 +1,5 @@
-![Playlist Gamer - Especial Terror](https://i.postimg.cc/Hkfv9kw9/Playlist-Gamer-ET-(banner).jpg)
+<img width="960" height="270" alt="image" src="https://github.com/user-attachments/assets/44132faa-2706-4713-8274-06f1ec075880" />
+
 # Playlist Gamer - Especial Terror (2025)
 > 25 de outubro e 9 de novembro de 2025
 
