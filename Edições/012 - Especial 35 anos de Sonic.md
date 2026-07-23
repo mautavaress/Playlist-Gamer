@@ -31,7 +31,7 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 
 ## Tier List
 
-[![Especial-35-anos-de-Sonic-Tier-List.png](https://i.postimg.cc/cJLQKJbc/Especial-35-anos-de-Sonic-Tier-List.png)](https://postimg.cc/G46BVbrB)
+<img width="1280" height="824" alt="image" src="https://github.com/user-attachments/assets/bffab092-e788-47a2-82c9-93f672f47cd6" />
 
 ## Agradecimentos especiais aos pedintes
 - [Ito](https://www.youtube.com/@ito_masters)
