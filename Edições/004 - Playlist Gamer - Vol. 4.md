@@ -1,4 +1,5 @@
-![Playlist Gamer - Vol. 4](https://i.postimg.cc/mDZq62DD/Playlist-Gamer-4-(banner).jpg)
+<img width="960" height="270" alt="image" src="https://github.com/user-attachments/assets/da78e07b-8ca6-4168-90bf-6f1bee5eb23a" />
+
 # Playlist Gamer - Vol. 4
 > 6 de setembro de 2025
 
