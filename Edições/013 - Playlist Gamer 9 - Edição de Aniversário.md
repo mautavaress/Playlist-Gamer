@@ -1,4 +1,4 @@
-[![Playlist-Gamer-9-(Banner).png](https://i.postimg.cc/kX69bK6V/Playlist-Gamer-9-(Banner).png)](https://postimg.cc/6yXDs7hw)
+<img width="960" height="270" alt="image" src="https://github.com/user-attachments/assets/de0bbc5a-1b05-4807-ae19-c7f533deebef" />
 
 # Playlist Gamer 9 (Edição de Aniversário)
 
