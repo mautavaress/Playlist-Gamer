@@ -1,4 +1,5 @@
-![Playlist Gamer - Vol. 5](https://i.postimg.cc/13Hr70N0/Playlist-Gamer-5-(banner).jpg)
+<img width="960" height="270" alt="image" src="https://github.com/user-attachments/assets/e747af66-dde4-49d1-81bf-7165daabc76b" />
+
 # Playlist Gamer - Vol. 5 
 > 14 de setembro de 2025
 
