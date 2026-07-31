@@ -13,7 +13,7 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 |Ordem|Hora e data| Plataforma/Jogo com link pro VOD|Review|
 |-----|-----|-----|-----|
 |1|`12/07/2026 15:33`|[NES - **Five Nights at Freddy’s: NES**](https://www.youtube.com/watch?v=dCptPGF1KmI&t=441s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Five%20Nights%20at%20Freddy's%20-%20NES.md)|
-|2|`12/07/2026 16:08`|[GB - **Combo Fishing**](https://www.youtube.com/watch?v=dCptPGF1KmI&t=2795s)|Em breve|
+|2|`12/07/2026 16:08`|[GB - **Combo Fishing**](https://www.youtube.com/watch?v=dCptPGF1KmI&t=2795s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Combo%20Fishing.md)|
 |3|`12/07/2026 16:59`|[3DO - **BioFury**](https://www.youtube.com/watch?v=dCptPGF1KmI&t=5196s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/BioFury.md)|
 |4|`12/07/2026 17:37`|[GBC - **Hatsune Miku Bomb Squad!**](https://www.youtube.com/watch?v=dCptPGF1KmI&t=7466s)|Em breve|
 |5|`12/07/2026 18:27`|[SNES - **Super Boss Gaiden**](https://www.youtube.com/watch?v=dCptPGF1KmI&t=10168s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Super%20Boss%20Gaiden.md)|
