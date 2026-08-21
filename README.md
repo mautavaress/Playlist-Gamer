@@ -126,8 +126,7 @@ Pedidos de jogos que façam parte de coletâneas serão deferidos **somente** no
 > É importante deixar claro que os benefícios para sub só valem para quem é/era sub no momento em que o jogo foi pedido via resgate ou publicação no Discord.
 
 > [!NOTE]
-> O tempo de gameplay só começa a valer após a primeira série de cutscenes ou diálogos, quando o streamer assume o controle do personagem. É uma medida para evitar que cutscenes e diálogos ocupem boa parte do tempo.
-> Para saber quanto tempo ainda resta para a gameplay terminar, utilize "!timers" (sem as aspas) no chat da Twitch. Infelizmente, não tem como exibir a contagem regressiva on-screen.
+> O tempo de gameplay só começa a valer após a primeira série de cutscenes ou diálogos, quando o streamer assume o controle do personagem. É uma medida para evitar que cutscenes e diálogos ocupem boa parte do tempo. Basta acompanhar na tela.
 
 ## Benefícios para quem doar
 
