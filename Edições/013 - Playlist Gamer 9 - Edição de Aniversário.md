@@ -13,7 +13,7 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 |Ordem|Hora e data| Plataforma/Jogo com link pro VOD|Review|
 |-----|-----|-----|-----|
 |1|`27/06/2026 15:32`|[PS2 - **VALKYRIE PROFILE 2: SILMERIA**](https://www.youtube.com/watch?v=mWTfVED5MMA&t=30s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/VALKYRIE%20PROFILE%202%20-%20SILMERIA.md)|
-|2|`27/06/2026 16:23`|[PS2 - **Sly Cooper and the Thievius Raccoonus**](https://www.youtube.com/watch?v=mWTfVED5MMA&t=3007s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Sly%20Cooper%20and%20the%20Thievius%20Raccoonus.md)|
+|2|`27/06/2026 16:23`|[PS2 - **Sly Cooper and the Thievius Raccoonus**](https://www.youtube.com/watch?v=mWTfVED5MMA&t=3007s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Sly%20Cooper%20and%20the%20Thievius%20Raccoonus.md)|
 |3|`27/06/2026 17:05`|[PS1 - **Punky Skunk**](https://www.youtube.com/watch?v=mWTfVED5MMA&t=5437s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Punky%20Skunk.md)|
 |4|`27/06/2026 17:44`|[PSP - **Valkyria Chronicles II**](https://www.youtube.com/watch?v=mWTfVED5MMA&t=7805s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Valkyria%20Chronicles%20II.md)|
 |5|`27/06/2026 18:58`|[SFC - **Melfand Stories**](https://www.youtube.com/watch?v=mWTfVED5MMA&t=11943s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Melfand%20Stories.md)|
