@@ -26,12 +26,12 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 |12|`16/08/2026 18:47`|[MD - **Michael Jackson's Moonwalker**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=12991s)|Em breve|
 |13|`16/08/2026 19:22`|[SAT - **Sky Target**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=14671s)|Em breve|
 |14|`16/08/2026 20:14`|[PS1 - **Einhänder**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=17777s)|Em breve|
-|15|`22/08/2026 15:08`|[SFC - **Hashire Hebereke**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=391s)|Em breve|
-|16|`22/08/2026 15:56`|[PS2 - **Barbie as the Island Princess**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=3317s)|Em breve|
-|17|`22/08/2026 17:02`|[PS1 - **No One Can Stop Mr. Domino!**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=6698s)|Em breve|
+|15|`22/08/2026 15:08`|[SFC - **Hashire Hebereke**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=391s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Hashire%20Hebereke.md)|
+|16|`22/08/2026 15:56`|[PS2 - **Barbie as the Island Princess**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=3317s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Barbie%20as%20the%20Island%20Princess.md)|
+|17|`22/08/2026 17:02`|[PS1 - **No One Can Stop Mr. Domino!**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=6698s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/No%20One%20Can%20Stop%20Mr%20Domino.md)|
 |18|`22/08/2026 17:54`|[PS1 - **T'ai Fu: Wrath of the Tiger**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=9971s)|Em breve|
-|19|`22/08/2026 18:32`|[PS2 - **MDK2: Armageddon**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=12202s)|Em breve|
-|20|`22/08/2026 19:22`|[MD - **Academia do Saber**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=14674s)|Em breve|
+|19|`22/08/2026 18:32`|[PS2 - **MDK2: Armageddon**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=12202s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/MDK2%20Armageddon.md)|
+|20|`22/08/2026 19:22`|[MD - **Academia do Saber**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=14674s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Academia%20do%20Saber.md)|
 |21|`22/08/2026 19:59`|[MD - **Sword of Vermilion**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=16966s)|Em breve|
 
 ## Tier List
