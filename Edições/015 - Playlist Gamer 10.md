@@ -13,12 +13,12 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 |Ordem|Hora e data| Plataforma/Jogo com link pro VOD|Review|
 |-----|-----|-----|-----|
 |1|`15/08/2026 15:09`|[MD - **Desert Demolition Starring Road Runner and Wile E. Coyote**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=286s)|Em breve|
-|2|`15/08/2026 15:38`|[N64 - **Glover**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=2047s)|Em breve|
-|3|`15/08/2026 16:10`|[GC - **Smashing Drive**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=3988s)|Em breve|
-|4|`15/08/2026 17:02`|[NGPC - **Cool Boarders Pocket**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=7126s)|Em breve|
-|5|`15/08/2026 17:59`|[3DO - **AutoBahn Tokio**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=10015s)|Em breve|
+|2|`15/08/2026 15:38`|[N64 - **Glover**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=2047s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Glover.md)|
+|3|`15/08/2026 16:10`|[GC - **Smashing Drive**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=3988s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Smashing%20Drive%20(2000).md)|
+|4|`15/08/2026 17:02`|[NGPC - **Cool Boarders Pocket**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=7126s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Cool%20Boarders%20Pocket.md)|
+|5|`15/08/2026 17:59`|[3DO - **AutoBahn Tokio**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=10015s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/AutoBahn%20Tokio.md)|
 |6|`15/08/2026 18:51`|[PS2 - **Cars Mater-National Championship**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=13201s)|Em breve|
-|7|`15/08/2026 20:09`|[GBC - **Mickey's Speedway USA**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=18093s)|Em breve|
+|7|`15/08/2026 20:09`|[GBC - **Mickey's Speedway USA**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=18093s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Mickey's%20Speedway%20USA.md)|
 |8|`16/08/2026 15:11`|[DC - **Pen Pen**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|Em breve|
 |9|`16/08/2026 16:12`|[PS2 - **Army Men: Sarge's War**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=3635s)|Em breve|
 |10|`16/08/2026 17:02`|[GC - **Monsters, Inc. Scream Arena**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=6653s)|Em breve|
