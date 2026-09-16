@@ -25,7 +25,7 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 |11|`16/08/2026 17:52`|[PS1 - **Barbie: Gotta Have Games**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=9598s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Barbie%20-%20Gotta%20Have%20Games.md)|
 |12|`16/08/2026 18:47`|[MD - **Michael Jackson's Moonwalker**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=12991s)|Em breve|
 |13|`16/08/2026 19:22`|[SAT - **Sky Target**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=14671s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Sky%20Target.md)|
-|14|`16/08/2026 20:14`|[PS1 - **Einhänder**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=17777s)|Em breve|
+|14|`16/08/2026 20:14`|[PS1 - **Einhänder**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=17777s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Einhaender.md)|
 |15|`22/08/2026 15:08`|[SFC - **Hashire Hebereke**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=391s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Hashire%20Hebereke.md)|
 |16|`22/08/2026 15:56`|[PS2 - **Barbie as the Island Princess**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=3317s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Barbie%20as%20the%20Island%20Princess.md)|
 |17|`22/08/2026 17:02`|[PS1 - **No One Can Stop Mr. Domino!**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=6698s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/No%20One%20Can%20Stop%20Mr%20Domino.md)|
