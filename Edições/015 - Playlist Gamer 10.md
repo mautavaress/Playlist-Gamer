@@ -19,12 +19,12 @@ Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar 
 |5|`15/08/2026 17:59`|[3DO - **AutoBahn Tokio**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=10015s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/AutoBahn%20Tokio.md)|
 |6|`15/08/2026 18:51`|[PS2 - **Cars Mater-National Championship**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=13201s)|Em breve|
 |7|`15/08/2026 20:09`|[GBC - **Mickey's Speedway USA**](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=18093s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Mickey's%20Speedway%20USA.md)|
-|8|`16/08/2026 15:11`|[DC - **Pen Pen**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|Em breve|
+|8|`16/08/2026 15:11`|[DC - **Pen Pen**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Monsters%20Inc%20Scream%20Arena.md)|
 |9|`16/08/2026 16:12`|[PS2 - **Army Men: Sarge's War**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=3635s)|Em breve|
-|10|`16/08/2026 17:02`|[GC - **Monsters, Inc. Scream Arena**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=6653s)|Em breve|
-|11|`16/08/2026 17:52`|[PS1 - **Barbie: Gotta Have Games**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=9598s)|Em breve|
+|10|`16/08/2026 17:02`|[GC - **Monsters, Inc. Scream Arena**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=6653s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Monsters%20Inc%20Scream%20Arena.md)|
+|11|`16/08/2026 17:52`|[PS1 - **Barbie: Gotta Have Games**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=9598s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Barbie%20-%20Gotta%20Have%20Games.md)|
 |12|`16/08/2026 18:47`|[MD - **Michael Jackson's Moonwalker**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=12991s)|Em breve|
-|13|`16/08/2026 19:22`|[SAT - **Sky Target**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=14671s)|Em breve|
+|13|`16/08/2026 19:22`|[SAT - **Sky Target**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=14671s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Sky%20Target.md)|
 |14|`16/08/2026 20:14`|[PS1 - **Einhänder**](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=17777s)|Em breve|
 |15|`22/08/2026 15:08`|[SFC - **Hashire Hebereke**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=391s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Hashire%20Hebereke.md)|
 |16|`22/08/2026 15:56`|[PS2 - **Barbie as the Island Princess**](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=3317s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Barbie%20as%20the%20Island%20Princess.md)|
