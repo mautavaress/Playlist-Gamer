@@ -10,7 +10,7 @@ Bem-vindos à "Playlist Gamer - Vol. 5", onde eu jogo os jogos que vocês pedem!
 - [**Kirby: Squeak Squad**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=4159s) (DS) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Kirby%20-%20Squeak%20Squad.png)
 - [**WarioWare, Inc. Mega Microgame$**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=6731s) (Game Boy Advance) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/WarioWare%20Inc%20-%20Mega%20Microgames.md)
 - [**LEGO Pirates of the Caribbean: The Video Game**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=8868s) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/LEGO%20Pirates%20of%20the%20Caribbean%20-%20The%20Video%20Game.png)
-- [**Garfield: Lasagna World Tour**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=14292s) (PlayStation 2) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Garfield%20-%20Lasagna%20World%20Tour.png)
+- [**Garfield: Lasagna World Tour**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=11580s) (PlayStation 2) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Garfield%20-%20Lasagna%20World%20Tour.png)
 - [**The Simpsons: Hit & Run**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=14292s) (PlayStation 2) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/The%20Simpsons%20-%20Hit%20%26%20Run.md)
 - [**Call of Duty 2: Big Red One**](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=18400s) (PlayStation 2) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Call%20of%20Duty%202%3A%20Big%20Red%20One.md)
 
