@@ -1,7 +1,6 @@
 <img width="960" height="270" alt="image" src="https://github.com/user-attachments/assets/44132faa-2706-4713-8274-06f1ec075880" />
 
 # Playlist Gamer - Especial Terror (2025)
-> 25 de outubro e 9 de novembro de 2025
 
 Bem-vindos à "Playlist Gamer - Especial Terror", onde eu jogo os jogos de terror, suspense, sobrevivência ou gore que vocês pediram ou recomendaram! Se quiserem ver mais conteúdo como este, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 
