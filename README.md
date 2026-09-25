@@ -100,7 +100,7 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
  
 1. Jogos **não podem** apresentar conteúdo ilegal, como erotismo e discurso de ódio, pois, além de ferir as [regras da Twitch](https://help.twitch.tv/s/article/list-of-prohibited-games), violam as leis brasileiras.
 2. Jogos que façam uso de músicas protegidas por direitos autorais **são permitidos**, mas ainda assim, recomenda-se não pedir, pois pode haver problemas na hora de publicar VOD no YouTube.
-3. Jogos consideravelmente ruins são permitidos, recomenda-se não pedir, pois minha sanidade tem limites.  
+3. Jogos consideravelmente ruins são permitidos. No entanto, recomenda-se não pedir, pois minha sanidade tem limites.  
 4. Rom hacks e jogos homebrew são permitidos, desde que sejam gratuitos de baixar e atendam às exigências acima.
 5. Recomendo que analise o conteúdo do jogo antes de pedir, para saber se atende às exigências acima. 
 
