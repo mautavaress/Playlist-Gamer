@@ -13,12 +13,12 @@ Bem-vindos à "Playlist Gamer - Especial Terror", onde eu jogo os jogos de terro
 - [**Death Jr.**](https://www.youtube.com/watch?v=knLu-8HYqJM&t=11744s "**Death Jr.**") (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Death%20Jr.png)
 - [**Dante's Inferno**](https://www.twitch.tv/videos/2602863020) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Dante's%20Inferno.png)
 ### 9/11/2025
-- [**Castlevania II: Belmont's Revenge**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=62s) (Game Boy) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Castlevania%20II%20-%20Belmont's%20Revenge.png)
-- [**Metroid Fusion**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=2967s) (Game Boy Advance) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Metroid%20Fusion.png)
-- [**Resident Evil CODE:Veronica**](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=6256s) (Dreamcast) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Resident%20Evil%20CODE%20Veronica.png)
-- **Jeanne D'Arc** (PlayStation Portable) ([Parte 1](https://www.youtube.com/watch?v=cYv3WQ7E-us&t=10117s "Parte 1") / [Parte 2](https://www.youtube.com/watch?v=oMUHOl3TjSQ "Parte 2")) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Jeanne%20D'Arc.png)
-- [**Five Nights At Freddy's 3 Lite**](https://www.youtube.com/watch?v=oMUHOl3TjSQ&t=1505s "**Five Nights At Freddy's 3 Lite**") (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Five%20Nights%20at%20Freddy's%203%20Lite.png)
-- [**Five Nights at Freddy's 4 Lite**](https://www.youtube.com/watch?v=oMUHOl3TjSQ&t=4688s "**Five Nights at Freddy's 4 Lite**") (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Five%20Nights%20at%20Freddy's%204%20Lite.png)
+- [**Castlevania II: Belmont's Revenge**](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=62s) (Game Boy) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Castlevania%20II%20-%20Belmont's%20Revenge.png)
+- [**Metroid Fusion**](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=2967s&pp=0gcJCWMAwfN6Pr3D) (Game Boy Advance) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Metroid%20Fusion.png)
+- [**Resident Evil CODE:Veronica**](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=6256s) (Dreamcast) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Resident%20Evil%20CODE%20Veronica.png)
+- [**Jeanne D'Arc**](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=10117s) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Jeanne%20D'Arc.png)
+- [**Five Nights At Freddy's 3 Lite**](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=14574s) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Five%20Nights%20at%20Freddy's%203%20Lite.png)
+- [**Five Nights at Freddy's 4 Lite**](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=17730s) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Five%20Nights%20at%20Freddy's%204%20Lite.png)
 
 ## Tier List
 
