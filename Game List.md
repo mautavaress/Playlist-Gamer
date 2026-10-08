@@ -91,7 +91,7 @@
 |**FATAL FRAME II: Crimson Butterfly REMAKE**|XBSX|[As 3 primeiras horas](https://youtu.be/aGEuThOLDqA)|`20/03/2026`|
 |**Fatal Labyrinth**|MD|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=8830s)|`25/10/2025`|
 |**FightBox**|GBA|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=2056s)|`14/09/2025`|
-|**FINAL FANTASY TACTICS Advanced Battle** (hack de "FINAL FANTASY TACTICS ADVANCE")|GBA|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=18712s)|`29/03/2026`|
+|**FINAL FANTASY TACTICS Advanced Battle** (hack)|GBA|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=18712s)|`29/03/2026`|
 |**FINAL FANTASY VII REBIRTH**|XBSX|[As 3 primeiras horas](https://youtu.be/AdPr03AkVGY)|`06/05/2026`|
 |**Five Nights At Freddy's 3 Lite**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=14574s)|`09/11/2025`|
 |**Five Nights at Freddy's 4 Lite**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=17730s)|`09/11/2025`|
@@ -188,7 +188,7 @@
 |**Pringles: The Game**|MD|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=238s)|`16/07/2026`|
 |**Punky Skunk**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=5437s)|`27/06/2026`|
 |**Rent A Hero No.1**|DC|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=bOzTATBZNuE&t=12116s)|`28/06/2026`|
-|**Resident Evil 1.5 - Magic Zombie Door Fixed** (hack de "BIOHAZARD 2 Prototype")|PS1|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=368s)|`25/10/2025`|
+|**Resident Evil 1.5 - Magic Zombie Door Fixed** (hack)|PS1|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=368s)|`25/10/2025`|
 |**Resident Evil CODE:Veronica**|DC|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=6256s)|`09/11/2025`|
 |**Ribbit King**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=SXz1GrZ8FRQ&t=2838s)|`18/02/2026`|
 |**Road Trip**|PS2|[As 3 primeiras horas](https://youtu.be/56BEDq72tUk)|`15/04/2026`|
