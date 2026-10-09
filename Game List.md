@@ -1,5 +1,5 @@
 > [!NOTE]
-> Os jogos listados a seguir estão por ordem alfabética de título do jogo. Se o jogo que você quer pedir já estiver nesta lista, não peça, a não ser que seja de outra plataforma.
+> Os jogos listados a seguir estão por ordem alfabética de título do jogo. Se o jogo que você quer pedir já estiver nesta lista, não peça, a não ser que você queira pedir outra versão desse jogo (outra plataforma ou rom hack).
 
 <details>
 
