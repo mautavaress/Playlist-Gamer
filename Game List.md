@@ -1,3 +1,5 @@
+# Jogos que já foram jogados
+
 > [!NOTE]
 > Os jogos listados a seguir estão por ordem alfabética de título do jogo. Se o jogo que você quer pedir já estiver nesta lista, não peça, a não ser que você queira pedir outra versão desse jogo (outra plataforma ou rom hack).
 
@@ -269,3 +271,14 @@
 |**Yu-Gi-Oh! - The Sacred Cards**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=9206s)|`15/02/2026`|
 |**Zippy The Porcupine**|A2600|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=9286s)|`14/06/2026`|
 |**Zombie Nation**|NES|Esquadrão Shmup|`10/10/2026`|
+
+# Jogos que não foram aprovados após serem pedidos
+
+> [!NOTE]
+> Os jogos listados a seguir tiveram pedido indeferido, devido a problemas na emulação ou por não atender às [regras de plataforma](https://github.com/mautavaress/Playlist-Gamer/blob/main/README.md#regras-de-funcionalidade) e [de conteúdo](https://github.com/mautavaress/Playlist-Gamer/blob/main/README.md#regras-de-conte%C3%BAdo).
+
+|Jogo|Plat.|Motivo|
+|----|----|----|
+|**Curse: The Eye of Isis**|PS2|Trava após o boot ao carregar. Testado tanto no formato ISO, quanto CHD e no modo de renderização via software e DirectX.|
+|**Kirby's Air Ride**|GC|Apresenta texturas pretas durante a corrida. Provavelmente devido a problemas de compatibilidade com DirectX.|
+|**Odama**|GC|Parece que este jogo exige microfone para executar alguns comandos essenciais para a progressão.|
