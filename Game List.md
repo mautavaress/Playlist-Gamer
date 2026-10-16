@@ -173,7 +173,7 @@
 |**Pass the Pigs: Let the Good Swines Roll!**|DS|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=339s)|`03/05/2026`|
 |**Pen Pen**|DC|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|`16/08/2026`|
 |**Penguin Land**|GB|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=296s)|`05/04/2026`|
-|**Pepsiman** (hack de "Super Mario Bros.")|NES|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=12655s)|`07/12/2025`|
+|**Pepsiman** (hack)|NES|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=12655s)|`07/12/2025`|
 |**Ping-Pong Diplomacy Advance**|GBA|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=1849s)|`16/07/2026`|
 |**Pink Goes to Hollywood**|MD|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=9545s)|`23/08/2025`|
 |**Pitfall: The Lost Expedition**|GBA|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=5768s)|`16/08/2025`|
