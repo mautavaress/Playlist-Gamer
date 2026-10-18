@@ -291,3 +291,4 @@
 |**Curse: The Eye of Isis**|PS2|Trava após o boot ao carregar. Testado tanto no formato ISO, quanto CHD e no modo de renderização via software e DirectX.|
 |**Kirby's Air Ride**|GC|Apresenta texturas pretas durante a corrida. Provavelmente devido a problemas de compatibilidade com DirectX.|
 |**Odama**|GC|Parece que este jogo exige microfone para executar alguns comandos essenciais para a progressão.|
+|**Speed Kings**|PS2|O jogo apresenta uma queda bem acentuada de taxa de quadros em algumas pistas.|
