@@ -27,8 +27,9 @@
 - SCD - **Sega CD / Mega CD** (jogos que usam o 32X serão indicados por "SCD32X" de **Sega CD 32X / Mega CD 32X**)
 - SMS - **Master System** (jogos japoneses serão indicados por "MK3" de **Sega Mark III**)
 - SNES - **Super Nintendo** (jogos japoneses serão indicados por "SFC" de **Super Famicom**)
-- XBSX - **XBOX Series X|S**
 - XONE - **XBOX One**
+- XBSX - **XBOX Series X|S**
+
 
 </details>
 
