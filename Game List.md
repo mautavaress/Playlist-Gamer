@@ -10,7 +10,7 @@
 - 3DO - **3DO Interactive Multiplayer**
 - A2600 - **Atari 2600**
 - DC - **Dreamcast**
-- DS - **Nintendo DS**
+- DS - **Nintendo DS** (jogos de DSi serão indicados por "DSI")
 - GB - **Game Boy**
 - GBA - **Game Boy Advance**
 - GBC - **Game Boy Color**
