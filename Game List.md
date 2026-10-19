@@ -242,7 +242,7 @@
 |**T.R.A.G.: Mission of Mercy**|PS1|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=7143s)|`01/05/2026`|
 |**T'ai Fu: Wrath of the Tiger**|PS1|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=9971s)|`22/08/2026`|
 |**Tails' Skypatrol**|GG|[35 anos de Sonic](https://www.youtube.com/watch?v=crW1gq5cGYY&t=233s)|`21/06/2026`|
-|**The Final Station**|XONE|As 3 primeiras horas|`03/10/2026`|
+|**The Final Station**|XONE|Mau-tubro/Mau-vembro 2026|`03/10/2026`|
 |**The Land Before Time: Great Valley Racing Adventure**|PS1|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=10663s)|`09/05/2026`|
 |**The Legend of Zelda: Twilight Princess** (via Dusklight)|XSX|[As 3 primeiras horas](https://youtu.be/DZGCtJvTSbE)|`15/05/2026`|
 |**The Lion King**|SNES|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=16030s)|`05/07/2025`|
@@ -279,7 +279,7 @@
 |**Yakuza Kiwami 3**|XSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=67s)|`30/01/2026`|
 |**Yu-Gi-Oh! - The Sacred Cards**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=9206s)|`15/02/2026`|
 |**Zippy The Porcupine**|A2600|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=9286s)|`14/06/2026`|
-|**Zombie Nation**|NES|[Esquadrão Shmup](https://youtu.be/NsXuRRuxZio)|`10/10/2026`|
+|**Zombie Nation**|NES|[Mau-tubro/Mau-vembro 2026](https://youtu.be/NsXuRRuxZio)|`10/10/2026`|
 
 # Jogos que não foram aprovados após serem pedidos
 
