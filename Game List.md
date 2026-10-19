@@ -28,7 +28,7 @@
 - SMS - **Master System** (jogos japoneses serão indicados por "MK3" de **Sega Mark III**)
 - SNES - **Super Nintendo** (jogos japoneses serão indicados por "SFC" de **Super Famicom**)
 - XONE - **XBOX One**
-- XBSX - **XBOX Series X|S**
+- XSX - **XBOX Series X|S**
 
 
 </details>
@@ -59,7 +59,7 @@
 |**Call of Duty 2: Big Red One**|PS2|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=18400s)|`14/09/2025`|
 |**Calvin Tucker's Redneck: Farm Animals Racing Tournament**|DS|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=4387s)|`17/05/2026`|
 |**Cars Mater-National Championship**|PS2|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=13201s)|`15/08/2026`|
-|**Castlevania: Belmont's Curse**|XBSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Castlevania: Belmont's Curse**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
 |**Castlevania II: Belmont's Revenge**|GB|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=62s)|`09/11/2025`|
 |**Cel Damage**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=6683s)|`15/02/2026`|
 |**Choro Q HG 2**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=5086s)|`05/04/2026`|
@@ -72,7 +72,7 @@
 |**Cosmic Race**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=T1utGahmGF0&t=2336s)|`06/12/2025`|
 |**Crystal's Pony Tale**|MD|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=14941s)|`04/07/2026`|
 |**Dante's Inferno**|PSP|[Playlist Gamer - Especial Terror](https://www.twitch.tv/videos/2602863020)|`25/10/2025`|
-|**Dark Ties**|XBSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=8134s)|`30/01/2026`|
+|**Dark Ties**|XSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=8134s)|`30/01/2026`|
 |**Daytona USA: Championship Circuit Edition**|SAT|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=562s)|`23/08/2025`|
 |**Dead by DayLight** (2021)|GB|[A playlist dos homebrew](https://www.youtube.com/watch?v=nal82nEAce8&t=296s)|`17/07/2026`|
 |**Death Jr.**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=11744s)|`25/10/2025`|
@@ -93,11 +93,11 @@
 |**F-1 World Grand Prix**|N64|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=4231s)|`09/05/2026`|
 |**F-1 World Grand Prix II**|N64|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=17074s)|`29/03/2026`|
 |**FAITH: The Unholy Trinity**|XONE|A playlist ATERRORIZANTE|`17/10/2026`|
-|**FATAL FRAME II: Crimson Butterfly REMAKE**|XBSX|[As 3 primeiras horas](https://youtu.be/aGEuThOLDqA)|`20/03/2026`|
+|**FATAL FRAME II: Crimson Butterfly REMAKE**|XSX|[As 3 primeiras horas](https://youtu.be/aGEuThOLDqA)|`20/03/2026`|
 |**Fatal Labyrinth**|MD|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=8830s)|`25/10/2025`|
 |**FightBox**|GBA|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=2056s)|`14/09/2025`|
 |**FINAL FANTASY TACTICS Advanced Battle** (hack)|GBA|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=18712s)|`29/03/2026`|
-|**FINAL FANTASY VII REBIRTH**|XBSX|[As 3 primeiras horas](https://youtu.be/AdPr03AkVGY)|`06/05/2026`|
+|**FINAL FANTASY VII REBIRTH**|XSX|[As 3 primeiras horas](https://youtu.be/AdPr03AkVGY)|`06/05/2026`|
 |**Five Nights At Freddy's 3 Lite**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=14574s)|`09/11/2025`|
 |**Five Nights at Freddy's 4 Lite**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=17730s)|`09/11/2025`|
 |**Five Nights at Freddy’s: NES**|NES|[A playlist dos homebrew](https://www.youtube.com/watch?v=dCptPGF1KmI&t=441s)|`12/07/2026`|
@@ -178,7 +178,7 @@
 |**Ninja Five-O**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=285s)|`16/02/2026`|
 |**No One Can Stop Mr. Domino!**|PS1|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=6698s)|`22/08/2026`|
 |**Nosferatu**|SNES|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=2767s)|`25/10/2025`|
-|**Onimusha: Way of The Sword**|XBSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Onimusha: Way of The Sword**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
 |**Pass the Pigs: Let the Good Swines Roll!**|DS|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=339s)|`03/05/2026`|
 |**Pen Pen**|DC|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|`16/08/2026`|
 |**Penguin Land**|GB|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=296s)|`05/04/2026`|
@@ -191,7 +191,7 @@
 |**Pokémon Emerald Seaglass** (hack)|GBA|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=17936s)|`06/09/2025`|
 |**Pokémon TCG Neo** (hack)|GBC|[Playlist Gamer 6](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=16332s)|`06/12/2025`|
 |**Power Rangers: Time Force**|GBC|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=12146s)|`16/08/2025`|
-|**PRAGMATA**|XBSX|[As 3 primeiras horas](https://youtu.be/p9Soh8J0ExE)|`12/02/2026`|
+|**PRAGMATA**|XSX|[As 3 primeiras horas](https://youtu.be/p9Soh8J0ExE)|`12/02/2026`|
 |**Prince of Persia: the Sands of Time**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=12934s)|`16/02/2026`|
 |**Prince of Persia: the Sands of Time**|PS2|Playlist Gamer 8|`02/05/2026`|
 |**Pringles: The Game**|MD|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=238s)|`16/07/2026`|
@@ -199,7 +199,7 @@
 |**Rent A Hero No.1**|DC|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=bOzTATBZNuE&t=12116s)|`28/06/2026`|
 |**Resident Evil 1.5 - Magic Zombie Door Fixed** (hack)|PS1|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=368s)|`25/10/2025`|
 |**Resident Evil CODE:Veronica**|DC|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=6256s)|`09/11/2025`|
-|**Resident Evil: Requiem**|XBSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Resident Evil: Requiem**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
 |**Ribbit King**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=SXz1GrZ8FRQ&t=2838s)|`18/02/2026`|
 |**Road Trip**|PS2|[As 3 primeiras horas](https://youtu.be/56BEDq72tUk)|`15/04/2026`|
 |**Rogue Trip: Vacation 2012**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=16003s)|`27/06/2026`|
@@ -244,7 +244,7 @@
 |**Tails' Skypatrol**|GG|[35 anos de Sonic](https://www.youtube.com/watch?v=crW1gq5cGYY&t=233s)|`21/06/2026`|
 |**The Final Station**|XONE|As 3 primeiras horas|`03/10/2026`|
 |**The Land Before Time: Great Valley Racing Adventure**|PS1|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=10663s)|`09/05/2026`|
-|**The Legend of Zelda: Twilight Princess** (via Dusklight)|XBSX|[As 3 primeiras horas](https://youtu.be/DZGCtJvTSbE)|`15/05/2026`|
+|**The Legend of Zelda: Twilight Princess** (via Dusklight)|XSX|[As 3 primeiras horas](https://youtu.be/DZGCtJvTSbE)|`15/05/2026`|
 |**The Lion King**|SNES|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=16030s)|`05/07/2025`|
 |**The Mask**|SNES|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=20004s)|`05/07/2025`|
 |**The Polar Express**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=12198s)|`15/02/2026`|
@@ -255,7 +255,7 @@
 |**Tiny Toon Adventures: Wacky Sports Challenge**|SNES|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=4422s)|`06/09/2025`|
 |**Tomato Adventure**|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=18073s)|`23/08/2025`|
 |**Tony Hawk's Pro Skater**|GBC|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=14263s)|`03/05/2026`|
-|**Tormented Souls II**|XBSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Tormented Souls II**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
 |**Toy Story Racer**|GBC|[RACE DAY](https://www.youtube.com/watch?v=4UdWorw2qDY&t=229s)|`10/05/2026`|
 |**True Fear: Forsaken Souls Part 1**|XONE|[As 3 primeiras horas](https://youtu.be/5SZUWJYVD-s)|`21/08/2026`|
 |**Turok: Evolution**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=5552s)|`16/02/2026`|
@@ -275,8 +275,8 @@
 |**Wu-Tang: Shaolin Style**|PS1|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=15378s)|`05/04/2026`|
 |**XIII** (2003)|PS2|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=475s)|`04/07/2026`|
 |**Yakuza Restored** (hack)|PS2|[As 3 primeiras horas](https://youtu.be/ZZT2NEENxQ0)|`06/12/2025`|
-|**Yakuza Kiwami 2**|XBSX|[As 3 primeiras horas](https://youtu.be/gLC6C80TZks)|`10/12/2025`|
-|**Yakuza Kiwami 3**|XBSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=67s)|`30/01/2026`|
+|**Yakuza Kiwami 2**|XSX|[As 3 primeiras horas](https://youtu.be/gLC6C80TZks)|`10/12/2025`|
+|**Yakuza Kiwami 3**|XSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=67s)|`30/01/2026`|
 |**Yu-Gi-Oh! - The Sacred Cards**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=9206s)|`15/02/2026`|
 |**Zippy The Porcupine**|A2600|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=9286s)|`14/06/2026`|
 |**Zombie Nation**|NES|Esquadrão Shmup|`10/10/2026`|
