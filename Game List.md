@@ -279,7 +279,7 @@
 |**Yakuza Kiwami 3**|XSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=67s)|`30/01/2026`|
 |**Yu-Gi-Oh! - The Sacred Cards**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=9206s)|`15/02/2026`|
 |**Zippy The Porcupine**|A2600|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=9286s)|`14/06/2026`|
-|**Zombie Nation**|NES|Esquadrão Shmup|`10/10/2026`|
+|**Zombie Nation**|NES|[Esquadrão Shmup](https://youtu.be/NsXuRRuxZio)|`10/10/2026`|
 
 # Jogos que não foram aprovados após serem pedidos
 
