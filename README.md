@@ -83,7 +83,8 @@ Alternativamente, você pode pedir pelo LivePix da seguinte forma:
 | TurboGrafx-CD / PC Engine CD\* |  | 30 |
 | WonderSwan / WonderSwan Color\*|  | 20|
 
-<!--| Wii\* | Apenas jogos que façam parte desta [lista](https://retroachievements.org/hub/17723?page%5Bsize%5D=100) serão aceitos. Jogos fora desta lista estarão sujeitos à análise. | 30 |-->
+<!--| 3DS\* | Apenas jogos que estejam listados como "Perfect" ou "Great" nesta [lista de compatibilidade com Azahar](https://kahmenah.github.io/azahar-compatibility-list/) serão aceitos. Jogos fora desta lista estarão sujeitos à análise. **Jogos de Virtual Console ou que exigem uso intenso de controles de toque NÃO SERÃO ACEITOS.**| 30 |
+| Wii\* | Apenas jogos que façam parte desta [lista](https://retroachievements.org/hub/17723?page%5Bsize%5D=100) serão aceitos. Jogos fora desta lista estarão sujeitos à análise. | 30 |-->
 
 ## Regras de funcionalidade
 
