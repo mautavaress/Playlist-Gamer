@@ -59,7 +59,7 @@
 |**Call of Duty 2: Big Red One**|PS2|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=18400s)|`14/09/2025`|
 |**Calvin Tucker's Redneck: Farm Animals Racing Tournament**|DS|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=4387s)|`17/05/2026`|
 |**Cars Mater-National Championship**|PS2|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=13201s)|`15/08/2026`|
-|**Castlevania: Belmont's Curse**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Castlevania: Belmont's Curse**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=7169s)|`17/10/2026`|
 |**Castlevania II: Belmont's Revenge**|GB|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=62s)|`09/11/2025`|
 |**Cel Damage**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=6683s)|`15/02/2026`|
 |**Choro Q HG 2**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=5086s)|`05/04/2026`|
@@ -92,7 +92,7 @@
 |**Extreme Sprint 3010**|PS2|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=bOzTATBZNuE&t=3804s)|`28/06/2026`|
 |**F-1 World Grand Prix**|N64|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=4231s)|`09/05/2026`|
 |**F-1 World Grand Prix II**|N64|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=17074s)|`29/03/2026`|
-|**FAITH: The Unholy Trinity**|XONE|A playlist ATERRORIZANTE|`17/10/2026`|
+|**FAITH: The Unholy Trinity**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=5400s)|`17/10/2026`|
 |**FATAL FRAME II: Crimson Butterfly REMAKE**|XSX|[As 3 primeiras horas](https://youtu.be/aGEuThOLDqA)|`20/03/2026`|
 |**Fatal Labyrinth**|MD|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=8830s)|`25/10/2025`|
 |**FightBox**|GBA|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=2056s)|`14/09/2025`|
@@ -109,7 +109,7 @@
 |**Geometry Dash Advance**|GBA|[A playlist dos homebrew](https://www.youtube.com/watch?v=nal82nEAce8&t=5685s)|`17/07/2026`|
 |**Getter Love!!: Chō Renai Party Game Tanjō**|N64|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=11018s)|`04/07/2026`|
 |**Gex 3: Deep Cover Gecko**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=4429s)|`07/12/2025`|
-|**Ghost Trick: Phantom Detective**|XONE|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Ghost Trick: Phantom Detective**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=17360s)|`17/10/2026`|
 |**Glover**|N64|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=2047s)|`15/08/2026`|
 |**Grand Theft Auto** (2004)|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=15767s)|`23/08/2025`|
 |**GT Cube**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=19923s)|`15/02/2026`|
@@ -124,8 +124,8 @@
 |**HISTORY: Ice Road Truckers**|PSP|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=6003s)|`17/05/2026`|
 |**HITMAN 2: Silent Assassin**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=8231s)|`05/04/2026`|
 |**Hooters Road Trip**|PS1|[RACE DAY](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=6704s)|`10/05/2026`|
-|**Horror Adventure**|XONE|A playlist ATERRORIZANTE|`17/10/2026`|
-|**Horror Adventure: Zombie Edition**|XONE|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Horror Adventure**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=16356s)|`17/10/2026`|
+|**Horror Adventure: Zombie Edition**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=21847s)|`17/10/2026`|
 |**Incredible Crisis**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=13607s)|`27/06/2026`|
 |**Jeanne D'Arc**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=10117s)|`09/11/2025`|
 |**Jet Pilot Rising**|SNES|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=6320s)|`16/07/2026`|
@@ -178,7 +178,7 @@
 |**Ninja Five-O**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=285s)|`16/02/2026`|
 |**No One Can Stop Mr. Domino!**|PS1|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=6698s)|`22/08/2026`|
 |**Nosferatu**|SNES|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=2767s)|`25/10/2025`|
-|**Onimusha: Way of The Sword**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Onimusha: Way of The Sword**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=270s&pp=0gcJCWMAwfN6Pr3D)|`17/10/2026`|
 |**Pass the Pigs: Let the Good Swines Roll!**|DS|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=339s)|`03/05/2026`|
 |**Pen Pen**|DC|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|`16/08/2026`|
 |**Penguin Land**|GB|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=296s)|`05/04/2026`|
@@ -199,7 +199,7 @@
 |**Rent A Hero No.1**|DC|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=bOzTATBZNuE&t=12116s)|`28/06/2026`|
 |**Resident Evil 1.5 - Magic Zombie Door Fixed** (hack)|PS1|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=368s)|`25/10/2025`|
 |**Resident Evil CODE:Veronica**|DC|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=6256s)|`09/11/2025`|
-|**Resident Evil: Requiem**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Resident Evil: Requiem**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=23511s)|`17/10/2026`|
 |**Ribbit King**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=SXz1GrZ8FRQ&t=2838s)|`18/02/2026`|
 |**Road Trip**|PS2|[As 3 primeiras horas](https://youtu.be/56BEDq72tUk)|`15/04/2026`|
 |**Rogue Trip: Vacation 2012**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=16003s)|`27/06/2026`|
@@ -255,7 +255,7 @@
 |**Tiny Toon Adventures: Wacky Sports Challenge**|SNES|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=4422s)|`06/09/2025`|
 |**Tomato Adventure**|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=18073s)|`23/08/2025`|
 |**Tony Hawk's Pro Skater**|GBC|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=14263s)|`03/05/2026`|
-|**Tormented Souls II**|XSX|A playlist ATERRORIZANTE|`17/10/2026`|
+|**Tormented Souls II**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=11016s)|`17/10/2026`|
 |**Toy Story Racer**|GBC|[RACE DAY](https://www.youtube.com/watch?v=4UdWorw2qDY&t=229s)|`10/05/2026`|
 |**True Fear: Forsaken Souls Part 1**|XONE|[As 3 primeiras horas](https://youtu.be/5SZUWJYVD-s)|`21/08/2026`|
 |**Turok: Evolution**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=5552s)|`16/02/2026`|
