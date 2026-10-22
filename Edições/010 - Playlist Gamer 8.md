@@ -21,7 +21,7 @@ Bem-vindos à "Playlist Gamer 8", onde eu jogo os jogos que vocês me pediram ou
 |9|`03/05/2026 15:17`|[DS - **Pass the Pigs: Let the Good Swines Roll!**](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=4965s&pp=0gcJCWMAwfN6Pr3D)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Pass%20the%20Pigs.md)|
 |10|`03/05/2026 16:10`|[PS2 - **Thrillville**](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=8192s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Thrillville.md)|
 |11|`03/05/2026 16:52`|[PS2 - **Barnyard**](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=10606s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Barnyard.md)|
-|12|`03/05/2026 18:05`|[PS2 - **Area-51**](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=10070s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Area-51.md)|
+|12|`03/05/2026 18:05`|[PS2 - **Area-51**](https://www.youtube.com/watch?v=SIMGjPbG4DI&list=PLvqssAXHVG69Y8WZ0XZDP-6HS0Ew6FA5P&index=2&t=14690s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Area-51.md)|
 |13|`03/05/2026 19:18`|[GBC - **Tony Hawk's Pro Skater**](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=18859s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Tony%20Hawk's%20Pro%20Skater%20(GBC).md)|
 |14|`03/05/2026 19:55`|[PS2 - **Romancing SaGa (2005)**](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=21258s)|[Clique aqui](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Romancing%20SaGa%20(2005).md)|
 
