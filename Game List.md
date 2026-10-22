@@ -39,12 +39,12 @@
 |**2Xtreme**|PS1|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=19459s)|`23/08/2025`|
 |**3D Pinball: Space Cadet**|PS2|[A playlist dos homebrew](https://www.youtube.com/watch?v=nal82nEAce8&t=10568s)|`17/07/2026`|
 |**Academia do Saber**|MD|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=14674s)|`22/08/2026`|
-|**Agent Hugo: RoboRumble**|PS2|[RACE DAY](https://www.youtube.com/watch?v=T9Mn8WPEOrk)|`10/05/2026`|
+|**Agent Hugo: RoboRumble**|PS2|[RACE DAY](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=1999s)|`10/05/2026`|
 |**Alex Kidd in Shinobi World**|SMS|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=3761s)|`16/08/2025`|
 |**Aliens: Infestation**|DS|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=10769s)|`06/09/2025`|
 |**Amazing Island**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=15969s)|`16/02/2026`|
 |**Area-51**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&list=PLvqssAXHVG69Y8WZ0XZDP-6HS0Ew6FA5P&index=2&t=14690s)|`03/05/2026`|
-|**Arctic Thunder**|PS2|[RACE DAY](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=12155s)|`10/05/2026`|
+|**Arctic Thunder**|PS2|[RACE DAY](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=14231s)|`10/05/2026`|
 |**Army Men: Sarge's War**|PS2|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=3635s)|`16/08/2026`|
 |**Arthur! Ready to Race**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=6642s)|`07/12/2025`|
 |**AutoBahn Tokio**|3DO|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=10015s)|`15/08/2026`|
@@ -63,7 +63,7 @@
 |**Castlevania II: Belmont's Revenge**|GB|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=62s)|`09/11/2025`|
 |**Cel Damage**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=6683s)|`15/02/2026`|
 |**Choro Q HG 2**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=5086s)|`05/04/2026`|
-|**Colin McRae Rally 2.0**|PS1|[RACE DAY](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=3796s)|`10/05/2026`|
+|**Colin McRae Rally 2.0**|PS1|[RACE DAY](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=5865s)|`10/05/2026`|
 |**Combo Fishing**|GB|[A playlist dos homebrew](https://www.youtube.com/watch?v=dCptPGF1KmI&t=2795s)|`12/07/2026`|
 |**Conflict: Vietnam**|PS2|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=187s)|`06/09/2025`|
 |**Congo's Caper**|SNES|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=17970s)|`05/07/2025`|
@@ -123,7 +123,7 @@
 |**Highway 2000**|SAT|[As 3 primeiras horas](https://www.youtube.com/watch?v=t4my-XPUYuM&t=2714s)|`05/08/2026`|
 |**HISTORY: Ice Road Truckers**|PSP|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=6003s)|`17/05/2026`|
 |**HITMAN 2: Silent Assassin**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=8231s)|`05/04/2026`|
-|**Hooters Road Trip**|PS1|[RACE DAY](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=6704s)|`10/05/2026`|
+|**Hooters Road Trip**|PS1|[RACE DAY](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=8779s)|`10/05/2026`|
 |**Horror Adventure**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=16356s)|`17/10/2026`|
 |**Horror Adventure: Zombie Edition**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=21847s)|`17/10/2026`|
 |**Incredible Crisis**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=13607s)|`27/06/2026`|
@@ -209,7 +209,7 @@
 |**Shadow The Hedgehog**|PS2|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=484s)|`14/06/2026`|
 |**Shining Force III**|SAT|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=16386s)|`01/05/2026`|
 |**Shinseiki GPX Cyber Formula: Road to the Infinity**|PS2|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=7954s)|`09/05/2026`|
-|**Shrek: Swamp Kart Speedway**|GBA|[RACE DAY](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=9005s)|`10/05/2026`|
+|**Shrek: Swamp Kart Speedway**|GBA|[RACE DAY](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=11083s)|`10/05/2026`|
 |**Shrek Treasure Hunt**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=14116s)|`07/12/2025`|
 |**Side Pocket**|SNES|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=540s)|`16/08/2025`|
 |**SimCity 2000**|SAT|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=11152s)|`05/04/2026`|
@@ -256,7 +256,7 @@
 |**Tomato Adventure**|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=18073s)|`23/08/2025`|
 |**Tony Hawk's Pro Skater**|GBC|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=18859s)|`03/05/2026`|
 |**Tormented Souls II**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=11016s)|`17/10/2026`|
-|**Toy Story Racer**|GBC|[RACE DAY](https://www.youtube.com/watch?v=4UdWorw2qDY&t=229s)|`10/05/2026`|
+|**Toy Story Racer**|GBC|[RACE DAY](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=229s&pp=0gcJCWMAwfN6Pr3D)|`10/05/2026`|
 |**True Fear: Forsaken Souls Part 1**|XONE|[As 3 primeiras horas](https://youtu.be/5SZUWJYVD-s)|`21/08/2026`|
 |**Turok: Evolution**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=5552s)|`16/02/2026`|
 |**Twisted Metal III**|PS1|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=20004s)|`16/08/2025`|
