@@ -5,14 +5,14 @@ Bem-vindos à "Playlist Gamer 6", onde eu jogo os jogos que vocês me pediram ou
 
 ## Jogos apresentados
 ### 6/12/2025
-- [**Pokémon Conquest**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=139s) (DS) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Pok%C3%A9mon%20Conquest.png)
-- [**Dr. MiniGames**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=3348s) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Dr.%20Mini%20Games.png)
-- [**Need for Speed: Porsche Unleashed**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=6921s) (Game Boy Advance) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Need%20for%20Speed%20-%20Porsche%20Unleashed.png)
-- [**HamTaro: Ham-hams Unite!**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=9971s) (Game Boy Color) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/HamTaro%20-%20Ham-Hams%20Unite.png)
-- [**Egg**](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=13222s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Egg.png)
-- **Pokémon TCG Neo** (rom hack de "Pokémon Trading Card Game") (Game Boy Color) ([Parte 1](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=16332s) / [Parte 2](https://www.youtube.com/watch?v=T1utGahmGF0)) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Pok%C3%A9mon%20TCG%20Neo.png)
-- [**Cosmic Race**](https://www.youtube.com/watch?v=T1utGahmGF0&t=2336s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Cosmic%20Race.png)
-- [**Kaette-kitta Cyborg Kuro-chan**](https://www.youtube.com/watch?v=T1utGahmGF0&t=4580s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Kaette-Kitta%20Cyborg%20Kuro-chan.png)
+- [**Pokémon Conquest**](https://www.youtube.com/watch?v=7jIib_6N4O4&t=139s) (DS) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Pok%C3%A9mon%20Conquest.png)
+- [**Dr. MiniGames**](https://www.youtube.com/watch?v=7jIib_6N4O4&t=3348s&pp=0gcJCWMAwfN6Pr3D) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Dr.%20Mini%20Games.png)
+- [**Need for Speed: Porsche Unleashed**](https://www.youtube.com/watch?v=7jIib_6N4O4&t=6921s) (Game Boy Advance) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Need%20for%20Speed%20-%20Porsche%20Unleashed.png)
+- [**HamTaro: Ham-hams Unite!**](https://www.youtube.com/watch?v=7jIib_6N4O4&t=9971s) (Game Boy Color) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/HamTaro%20-%20Ham-Hams%20Unite.png)
+- [**Egg**](https://www.youtube.com/watch?v=7jIib_6N4O4&t=13222s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Egg.png)
+- [**Pokémon TCG Neo** (rom hack de "Pokémon Trading Card Game")](https://www.youtube.com/watch?v=7jIib_6N4O4&t=16332s&pp=0gcJCWMAwfN6Pr3D) (Game Boy Color) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Pok%C3%A9mon%20TCG%20Neo.png)
+- [**Cosmic Race**](https://www.youtube.com/watch?v=7jIib_6N4O4&t=19518s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Cosmic%20Race.png)
+- [**Kaette-kitta Cyborg Kuro-chan**](https://www.youtube.com/watch?v=7jIib_6N4O4&t=21800s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Kaette-Kitta%20Cyborg%20Kuro-chan.png)
 ### 7/12/2025
 - [**Monochrome Racing**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=38s) (PlayStation Portable) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Monochrome%20Racing.png)
 - [**Kaizou Choujin Shubibinman Zero**](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=2155s) (SNES / Super Famicom) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Kaizou%20Choujin%20Shubibinman%20Zero.png)
