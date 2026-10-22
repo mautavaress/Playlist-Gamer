@@ -69,7 +69,7 @@
 |**Congo's Caper**|SNES|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=17970s)|`05/07/2025`|
 |**Cool Boarders Pocket**|NGPC|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=7126s)|`15/08/2026`|
 |**Coraline**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=wAL2tLXWkXc&t=1002s)|`02/04/2026`|
-|**Cosmic Race**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=T1utGahmGF0&t=2336s)|`06/12/2025`|
+|**Cosmic Race**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=19518s)|`06/12/2025`|
 |**Crystal's Pony Tale**|MD|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=14941s)|`04/07/2026`|
 |**Dante's Inferno**|PSP|[Playlist Gamer - Especial Terror](https://www.twitch.tv/videos/2602863020)|`25/10/2025`|
 |**Dark Ties**|XSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=8134s)|`30/01/2026`|
@@ -83,11 +83,11 @@
 |**DiRT 2**|DS|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=2030s)|`05/07/2025`|
 |**Disaster Report**|PS2|[As 3 primeiras horas](https://youtu.be/bU0sKjnN1VA)|`06/12/2025`|
 |**Disney's Lilo & Stitch**|GBA|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=3818s)|`01/05/2026`|
-|**Dr. MiniGames**|PSP|[Playlist Gamer 6](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=3348s)|`06/12/2025`|
+|**Dr. MiniGames**|PSP|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=3348s&pp=0gcJCWMAwfN6Pr3D)|`06/12/2025`|
 |**Dragon Ball Z: Attack of the Saiyans**|DS|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=11325s)|`05/07/2025`|
 |**Dragon Ball Z: Supersonic Warriors**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=3504s)|`15/02/2026`|
 |**DT Racer**|PS2|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=14297s)|`09/05/2026`|
-|**Egg**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=13222s)|`06/12/2025`|
+|**Egg**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=13222s)|`06/12/2025`|
 |**Einhänder**|PS1|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=17777s)|`16/08/2026`|
 |**Extreme Sprint 3010**|PS2|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=bOzTATBZNuE&t=3804s)|`28/06/2026`|
 |**F-1 World Grand Prix**|N64|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=4231s)|`09/05/2026`|
@@ -115,7 +115,7 @@
 |**GT Cube**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=19923s)|`15/02/2026`|
 |**Gunple: Gunman's Proof**|SFC|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=108s)|`14/09/2025`|
 |**Gurumin: A Monstruous Adventure**|PSP|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=13584s)|`05/07/2025`|
-|**HamTaro: Ham-hams Unite!**|GBC|[Playlist Gamer 6](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=9971s)|`06/12/2025`|
+|**HamTaro: Ham-hams Unite!**|GBC|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=9971s)|`06/12/2025`|
 |**Hashire Hebereke**|SFC|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=391s)|`22/08/2026`|
 |**Hatsune Miku Bomb Squad!**|GBC|[A playlist dos homebrew](https://www.youtube.com/watch?v=dCptPGF1KmI&t=7466s)|`12/07/2026`|
 |**Hayato's Journey**|MD|[A playlist dos homebrew](https://www.youtube.com/watch?v=dCptPGF1KmI&t=11766s)|`12/07/2026`|
@@ -130,7 +130,7 @@
 |**Jeanne D'Arc**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=10117s)|`09/11/2025`|
 |**Jet Pilot Rising**|SNES|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=6320s)|`16/07/2026`|
 |**Just Cause**|PS2|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=7125s)|`05/07/2025`|
-|**Kaette-kitta Cyborg Kuro-chan**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=T1utGahmGF0&t=4580s)|`06/12/2025`|
+|**Kaette-kitta Cyborg Kuro-chan**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=21800s)|`06/12/2025`|
 |**Kaizou Choujin Shubibinman Zero**|SFC|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=2155s)|`07/12/2025`|
 |**Karpe Diem: Pokémon Fishing Contest**|GB|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=7825s)|`16/07/2026`|
 |**Kat's Run: Zen Nippon K-Car Senshuken**|SFC|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=6037s)|`09/05/2026`|
@@ -172,7 +172,7 @@
 |**My Little Pony: Pinkie Pie's Party**|DS|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=19665s)|`01/05/2026`|
 |**Naruto: Ninja Council**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=350s)|`15/02/2026`|
 |**NASCAR Rumble**|PS1|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=2541s)|`23/08/2025`|
-|**Need for Speed: Porsche Unleashed**|GBA|[Playlist Gamer 6](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=6921s)|`06/12/2025`|
+|**Need for Speed: Porsche Unleashed**|GBA|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=6921s)|`06/12/2025`|
 |**Nicktoons MLB**|DS|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=GeE9X9Mt80U&t=7160s)|`04/07/2026`|
 |**Nightmare Busters**|SNES|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=1974s)|`16/08/2025`|
 |**Ninja Five-O**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=285s)|`16/02/2026`|
@@ -187,9 +187,9 @@
 |**Pink Goes to Hollywood**|MD|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=9545s)|`23/08/2025`|
 |**Pitfall: The Lost Expedition**|GBA|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=5768s)|`16/08/2025`|
 |**Plants vs. Zombies**|PSP|[A playlist dos homebrew](https://www.youtube.com/watch?v=dCptPGF1KmI&t=13712s)|`12/07/2026`|
-|**Pokémon Conquest**|DS|[Playlist Gamer 6](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=139s)|`06/12/2025`|
+|**Pokémon Conquest**|DS|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=139s)|`06/12/2025`|
 |**Pokémon Emerald Seaglass** (hack)|GBA|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=17936s)|`06/09/2025`|
-|**Pokémon TCG Neo** (hack)|GBC|[Playlist Gamer 6](https://www.youtube.com/watch?v=jnSyZzRVZ-Q&t=16332s)|`06/12/2025`|
+|**Pokémon TCG Neo** (hack)|GBC|[Playlist Gamer 6](https://www.youtube.com/watch?v=7jIib_6N4O4&t=16332s&pp=0gcJCWMAwfN6Pr3D)|`06/12/2025`|
 |**Power Rangers: Time Force**|GBC|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=12146s)|`16/08/2025`|
 |**PRAGMATA**|XSX|[As 3 primeiras horas](https://youtu.be/p9Soh8J0ExE)|`12/02/2026`|
 |**Prince of Persia: the Sands of Time**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=12934s)|`16/02/2026`|
