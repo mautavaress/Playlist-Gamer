@@ -43,7 +43,7 @@
 |**Alex Kidd in Shinobi World**|SMS|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=3761s)|`16/08/2025`|
 |**Aliens: Infestation**|DS|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=10769s)|`06/09/2025`|
 |**Amazing Island**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=15969s)|`16/02/2026`|
-|**Area-51**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=10070s)|`03/05/2026`|
+|**Area-51**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&list=PLvqssAXHVG69Y8WZ0XZDP-6HS0Ew6FA5P&index=2&t=14690s)|`03/05/2026`|
 |**Arctic Thunder**|PS2|[RACE DAY](https://www.youtube.com/watch?v=T9Mn8WPEOrk&t=12155s)|`10/05/2026`|
 |**Army Men: Sarge's War**|PS2|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=3635s)|`16/08/2026`|
 |**Arthur! Ready to Race**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=6642s)|`07/12/2025`|
