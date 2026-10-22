@@ -51,7 +51,7 @@
 |**Avatar: The Legend of Aang**|GBA|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=10585s)|`01/05/2026`|
 |**Barbie as the Island Princess**|PS2|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=3317s)|`22/08/2026`|
 |**Barbie: Gotta Have Games**|PS1|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=9598s)|`16/08/2026`|
-|**Barnyard**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=5975s)|`03/05/2026`|
+|**Barnyard**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=10606s)|`03/05/2026`|
 |**Baldur's Gate: Dark Alliance**|GBA|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=16145s)|`16/08/2025`|
 |**Ben Hur: Blood of Braves**|PS2|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=16086s)|`17/05/2026`|
 |**Big Mutha Truckers**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=390s)|`29/03/2026`|
@@ -179,7 +179,7 @@
 |**No One Can Stop Mr. Domino!**|PS1|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=6698s)|`22/08/2026`|
 |**Nosferatu**|SNES|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=2767s)|`25/10/2025`|
 |**Onimusha: Way of The Sword**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=270s&pp=0gcJCWMAwfN6Pr3D)|`17/10/2026`|
-|**Pass the Pigs: Let the Good Swines Roll!**|DS|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=339s)|`03/05/2026`|
+|**Pass the Pigs: Let the Good Swines Roll!**|DS|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=4965s&pp=0gcJCWMAwfN6Pr3D)|`03/05/2026`|
 |**Pen Pen**|DC|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|`16/08/2026`|
 |**Penguin Land**|GB|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=296s)|`05/04/2026`|
 |**Pepsiman** (hack)|NES|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=12655s)|`07/12/2025`|
@@ -193,7 +193,7 @@
 |**Power Rangers: Time Force**|GBC|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=12146s)|`16/08/2025`|
 |**PRAGMATA**|XSX|[As 3 primeiras horas](https://youtu.be/p9Soh8J0ExE)|`12/02/2026`|
 |**Prince of Persia: the Sands of Time**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=12934s)|`16/02/2026`|
-|**Prince of Persia: the Sands of Time**|PS2|Playlist Gamer 8|`02/05/2026`|
+|**Prince of Persia: the Sands of Time**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI)|`02/05/2026`|
 |**Pringles: The Game**|MD|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=238s)|`16/07/2026`|
 |**Punky Skunk**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=5437s)|`27/06/2026`|
 |**Rent A Hero No.1**|DC|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=bOzTATBZNuE&t=12116s)|`28/06/2026`|
@@ -203,7 +203,7 @@
 |**Ribbit King**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=SXz1GrZ8FRQ&t=2838s)|`18/02/2026`|
 |**Road Trip**|PS2|[As 3 primeiras horas](https://youtu.be/56BEDq72tUk)|`15/04/2026`|
 |**Rogue Trip: Vacation 2012**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=16003s)|`27/06/2026`|
-|**Romancing SaGa** (2005)|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=16636s)|`03/05/2026`|
+|**Romancing SaGa** (2005)|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=21258s)|`03/05/2026`|
 |**Rumble Racing**|PS2|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=132s)|`17/05/2026`|
 |**Sega Rally Revo**|PSP|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=457s)|`09/05/2026`|
 |**Shadow The Hedgehog**|PS2|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=484s)|`14/06/2026`|
@@ -251,10 +251,10 @@
 |**The Simpsons: Hit & Run**|PS2|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=14292s)|`14/09/2025`|
 |**The Simpsons: Road Rage**|GBA|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=336s)|`01/05/2026`|
 |**The Simpsons Wrestling**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=10584s)|`07/12/2025`|
-|**Thrillville**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=3614s)|`03/05/2026`|
+|**Thrillville**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=8192s)|`03/05/2026`|
 |**Tiny Toon Adventures: Wacky Sports Challenge**|SNES|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=4422s)|`06/09/2025`|
 |**Tomato Adventure**|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=18073s)|`23/08/2025`|
-|**Tony Hawk's Pro Skater**|GBC|[Playlist Gamer 8](https://www.youtube.com/watch?v=xElPtQA8NjQ&t=14263s)|`03/05/2026`|
+|**Tony Hawk's Pro Skater**|GBC|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=18859s)|`03/05/2026`|
 |**Tormented Souls II**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=11016s)|`17/10/2026`|
 |**Toy Story Racer**|GBC|[RACE DAY](https://www.youtube.com/watch?v=4UdWorw2qDY&t=229s)|`10/05/2026`|
 |**True Fear: Forsaken Souls Part 1**|XONE|[As 3 primeiras horas](https://youtu.be/5SZUWJYVD-s)|`21/08/2026`|
