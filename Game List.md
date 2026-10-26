@@ -25,7 +25,7 @@
 - PSP - **PlayStation Portable** (incluindo jogos da série "PSP Minis")
 - SAT - **Saturn**
 - SCD - **Sega CD / Mega CD** (jogos que usam o 32X serão indicados por "SCD32X" de **Sega CD 32X / Mega CD 32X**)
-- SMS - **Master System** (jogos japoneses serão indicados por "MK3" de **Sega Mark III**)
+- SMS - **Master System / Mark III**
 - SNES - **Super Nintendo** (jogos japoneses serão indicados por "SFC" de **Super Famicom**)
 - XONE - **XBOX One**
 - XSX - **XBOX Series X|S**
