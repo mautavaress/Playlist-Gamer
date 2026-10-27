@@ -2,7 +2,7 @@
 
 # Playlist Gamer 10
 
-Bem-vindos à 15ª edição da Playlist Gamer, vulgo "Playlist Gamer 10", onde eu jogo o melhor dos jogos homebrew que vocês me pediram ou recomendaram. A edição aconteceu nos dias 15, 16 e 22 de agosto de 2026 e contou com 21 jogos.
+Bem-vindos à 15ª edição da Playlist Gamer, vulgo "Playlist Gamer 10", onde eu jogo os jogos mais variados que vocês me pediram ou recomendaram. A edição aconteceu nos dias 15, 16 e 22 de agosto de 2026 e contou com 21 jogos.
 
 Se quiserem ver mais conteúdo como este ou se quiser pedir jogos para eu jogar em live especial, me siga na ["Twitch"](https://twitch.tv/mautavaress)!
 
