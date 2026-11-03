@@ -12,7 +12,7 @@ Bem-vindos à "Playlist Gamer - Vol. 4", onde eu jogo os jogos que vocês pedem!
 - [**Mega Man X4**](https://www.youtube.com/watch?v=559Lf7RUTzM&t=8753s) (PlayStation) - início da campanha do Zero - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Mega%20Man%20X4.png)
 - [**Aliens: Infestation**](https://www.youtube.com/watch?v=559Lf7RUTzM&t=10769s) (DS) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Aliens%20-%20Infestation.png)
 - [**Mônica e a Sereia do Rio** (rom hack de "Wonder Boy")](https://www.youtube.com/watch?v=559Lf7RUTzM&t=12759s) (Master System / Mark III) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/M%C3%B4nica%20e%20a%20Sereia%20do%20Rio.md)
-- [**Martian Gothic: Unification**](https://www.youtube.com/watch?v=559Lf7RUTzM&t=15340s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Martial%20Gothic%20-%20Unification.png)
+- [**Martian Gothic: Unification**](https://www.youtube.com/watch?v=559Lf7RUTzM&t=15340s) (PlayStation) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Reviews/Martian%20Gothic%20-%20Unification.md)
 - [**Pokémon Emerald Seaglass** (rom hack de "Pokémon Emerald Version")](https://www.youtube.com/watch?v=559Lf7RUTzM&t=17936s) (Game Boy Advance) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Pok%C3%A9mon%20Emerald%20Seaglass.png)
 - [**Linkle Liver Story**](https://www.youtube.com/watch?v=559Lf7RUTzM&t=19977s) (Saturn) - [review](https://github.com/mautavaress/Reviews-de-jogos/blob/main/Primeiras%20impress%C3%B5es/Linkle%20Liver%20Story.png)
 
