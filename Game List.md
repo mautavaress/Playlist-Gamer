@@ -111,7 +111,7 @@
 |**Gex 3: Deep Cover Gecko**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=4429s)|`07/12/2025`|
 |**Ghost Trick: Phantom Detective**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=17360s)|`17/10/2026`|
 |**Glover**|N64|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=2047s)|`15/08/2026`|
-|**GOdzilla: Unleashed**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**Godzilla: Unleashed**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
 |**Grand Theft Auto** (2004)|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=15767s)|`23/08/2025`|
 |**Gregory Horror Show**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
 |**GT Cube**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=19923s)|`15/02/2026`|
