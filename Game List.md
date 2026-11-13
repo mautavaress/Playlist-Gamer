@@ -111,9 +111,9 @@
 |**Gex 3: Deep Cover Gecko**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=4429s)|`07/12/2025`|
 |**Ghost Trick: Phantom Detective**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=17360s)|`17/10/2026`|
 |**Glover**|N64|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=2047s)|`15/08/2026`|
-|**Godzilla: Unleashed**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**Godzilla: Unleashed**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=26407s)|`08/11/2026`|
 |**Grand Theft Auto** (2004)|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=15767s)|`23/08/2025`|
-|**Gregory Horror Show**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**Gregory Horror Show**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=18288s)|`08/11/2026`|
 |**GT Cube**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=19923s)|`15/02/2026`|
 |**Gunple: Gunman's Proof**|SFC|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=108s)|`14/09/2025`|
 |**Gurumin: A Monstruous Adventure**|PSP|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=13584s)|`05/07/2025`|
@@ -129,7 +129,7 @@
 |**Horror Adventure**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=16356s)|`17/10/2026`|
 |**Horror Adventure: Zombie Edition**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=21847s)|`17/10/2026`|
 |**Incredible Crisis**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=13607s)|`27/06/2026`|
-|**Jak II**|PS2|A playlist ATERRORIZANTE|`07/11/2026`|
+|**Jak II**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=3991s)|`07/11/2026`|
 |**Jeanne D'Arc**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=10117s)|`09/11/2025`|
 |**Jet Pilot Rising**|SNES|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=6320s)|`16/07/2026`|
 |**Just Cause**|PS2|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=7125s)|`05/07/2025`|
@@ -143,7 +143,7 @@
 |**Kirby's Dream Land 2**|GB|[Playlist Gamer 7](https://www.youtube.com/watch?v=wAL2tLXWkXc&t=6370s)|`02/04/2026`|
 |**Kirby & the Amazing Mirror**|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=11447s)|`23/08/2025`|
 |**Kong: King of Atlantis**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=14914s)|`15/02/2026`|
-|**Kuon** (Yin's Phase)|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**Kuon**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=29013s)|`08/11/2026`|
 |**Kyouryuu Sentai Zyuranger**|FC|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=10116s)|`16/08/2025`|
 |**Legends of Aereven Advance: Sleeping Azure**|GBA|[A playlist dos homebrew](https://www.youtube.com/watch?v=nal82nEAce8&t=2554s)|`17/07/2026`|
 |**LEGO Batman: The Videogame**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=11725s)|`29/03/2026`|
@@ -165,7 +165,7 @@
 |**Metalgun Slinger**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=17345s)|`15/02/2026`|
 |**Metroid Fusion**|GBA|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=2967s&pp=0gcJCWMAwfN6Pr3D)|`09/11/2025`|
 |**Michael Jackson's Moonwalker**|MD|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=12991s)|`16/08/2026`|
-|**Michigan: Report From Hell**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**Michigan: Report From Hell**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=22899s)|`08/11/2026`|
 |**Mickey To Donald Magical Adventure 3**|SFC|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=4722s)|`05/07/2025`|
 |**Mickey's Speedway USA**|GBC|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=18093s)|`15/08/2026`|
 |**Mônica e a Sereia do Rio** (hack)|SMS|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=12759s)|`06/09/2025`|
@@ -210,7 +210,7 @@
 |**Rogue Trip: Vacation 2012**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=16003s)|`27/06/2026`|
 |**Romancing SaGa** (2005)|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=21258s)|`03/05/2026`|
 |**Rumble Racing**|PS2|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=132s)|`17/05/2026`|
-|**Run Like Hell**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**Run Like Hell**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=15126s)|`08/11/2026`|
 |**Sega Rally Revo**|PSP|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=457s)|`09/05/2026`|
 |**Shadow The Hedgehog**|PS2|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=484s)|`14/06/2026`|
 |**Shining Force III**|SAT|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=16386s)|`01/05/2026`|
@@ -219,7 +219,7 @@
 |**Shrek Treasure Hunt**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=14116s)|`07/12/2025`|
 |**Side Pocket**|SNES|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=540s)|`16/08/2025`|
 |**SimCity 2000**|SAT|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=11152s)|`05/04/2026`|
-|**Siren**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**Siren**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=6852s)|`08/11/2026`|
 |**Sky Target**|SAT|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=14671s)|`16/08/2026`|
 |**Slam Dunk: I Love Basketball**|SAT|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=bOzTATBZNuE&t=15801s)|`28/06/2026`|
 |**Slender PSP**|PSP|[A playlist dos homebrew](https://www.youtube.com/watch?v=nal82nEAce8&t=7461s)|`17/07/2026`|
@@ -258,7 +258,7 @@
 |**The Simpsons: Hit & Run**|PS2|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=14292s)|`14/09/2025`|
 |**The Simpsons: Road Rage**|GBA|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=336s)|`01/05/2026`|
 |**The Simpsons Wrestling**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=10584s)|`07/12/2025`|
-|**The X-Files: Resist or Serve**|PS2|A playlist ATERRORIZANTE|`08/11/2026`|
+|**The X-Files: Resist or Serve**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=11780s)|`08/11/2026`|
 |**Thrillville**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=8192s)|`03/05/2026`|
 |**Tiny Toon Adventures: Wacky Sports Challenge**|SNES|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=4422s)|`06/09/2025`|
 |**Tomato Adventure**|GBA|[Playlist Gamer - Vol. 3](https://www.youtube.com/watch?v=prKi_Qt6Xh4&t=18073s)|`23/08/2025`|
@@ -287,7 +287,7 @@
 |**Yakuza Kiwami 3**|XSX|[As 3 primeiras horas](https://www.youtube.com/watch?v=E1g8EUe3ps4&t=67s)|`30/01/2026`|
 |**Yu-Gi-Oh! - The Sacred Cards**|GBA|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=9206s)|`15/02/2026`|
 |**Zippy The Porcupine**|A2600|[35 anos de Sonic](https://www.youtube.com/watch?v=NigNLy98R8o&t=9286s)|`14/06/2026`|
-|**Zombie Hunters 2**|PS2|A playlist ATERRORIZANTE|`07/11/2026`|
+|**Zombie Hunters 2**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=352)|`07/11/2026`|
 |**Zombie Nation**|NES|[Mau-tubro/Mau-vembro 2026](https://youtu.be/NsXuRRuxZio)|`10/10/2026`|
 
 
