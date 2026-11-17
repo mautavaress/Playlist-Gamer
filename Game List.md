@@ -43,7 +43,7 @@
 |**Alex Kidd in Shinobi World**|SMS|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=3761s)|`16/08/2025`|
 |**Aliens: Infestation**|DS|[Playlist Gamer - Vol. 4](https://www.youtube.com/watch?v=559Lf7RUTzM&t=10769s)|`06/09/2025`|
 |**Amazing Island**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=15969s)|`16/02/2026`|
-|**Ao Oni**|GB|A playlist ATERRORIZANTE|`14/11/2026`|
+|**Ao Oni**|GB|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=49yR4_3XKzQ&t=8669s)|`14/11/2026`|
 |**Area-51**|PS2|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&list=PLvqssAXHVG69Y8WZ0XZDP-6HS0Ew6FA5P&index=2&t=14690s)|`03/05/2026`|
 |**Arctic Thunder**|PS2|[RACE DAY](https://www.youtube.com/watch?v=9cNo7aZyMkg&t=14231s)|`10/05/2026`|
 |**Army Men: Sarge's War**|PS2|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=3635s)|`16/08/2026`|
@@ -57,8 +57,8 @@
 |**Ben Hur: Blood of Braves**|PS2|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=16086s)|`17/05/2026`|
 |**Big Mutha Truckers**|PS2|[Playlist Gamer 7](https://www.youtube.com/watch?v=nMMVq42XA1Q&t=390s)|`29/03/2026`|
 |**BioFury**|3DO|[A playlist dos homebrew](https://www.youtube.com/watch?v=dCptPGF1KmI&t=5196s)|`12/07/2026`|
-|**Buffy the Vampire Slayer**|GBC|A playlist ATERRORIZANTE|`14/11/2026`|
-|**C-12: Final Resistance**|PS1|A playlist ATERRORIZANTE|`14/11/2026`|
+|**Buffy the Vampire Slayer**|GBC|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=49yR4_3XKzQ&t=15190s)|`14/11/2026`|
+|**C-12: Final Resistance**|PS1|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=49yR4_3XKzQ&t=4831s)|`14/11/2026`|
 |**Call of Duty 2: Big Red One**|PS2|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=18400s)|`14/09/2025`|
 |**Calvin Tucker's Redneck: Farm Animals Racing Tournament**|DS|[RACE DAY](https://www.youtube.com/watch?v=N6n0zFibibk&t=4387s)|`17/05/2026`|
 |**Cars Mater-National Championship**|PS2|[Playlist Gamer 10](https://www.youtube.com/watch?v=MKWCyCfNyVo&t=13201s)|`15/08/2026`|
@@ -132,7 +132,7 @@
 |**Horror Adventure**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=16356s)|`17/10/2026`|
 |**Horror Adventure: Zombie Edition**|XONE|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=21847s)|`17/10/2026`|
 |**Incredible Crisis**|PS1|[Playlist Gamer 9 (Edição de Aniversário)](https://www.youtube.com/watch?v=mWTfVED5MMA&t=13607s)|`27/06/2026`|
-|**Iron Helix**|SCD|A playlist ATERRORIZANTE|`14/11/2026`|
+|**Iron Helix**|SCD|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=49yR4_3XKzQ&t=285s)|`14/11/2026`|
 |**Jak II**|PS2|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=PH_gn5KLAQc&t=3991s)|`07/11/2026`|
 |**Jeanne D'Arc**|PSP|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=yjiZJi5_QGE&t=10117s)|`09/11/2025`|
 |**Jet Pilot Rising**|SNES|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=6320s)|`16/07/2026`|
@@ -141,7 +141,7 @@
 |**Kaizou Choujin Shubibinman Zero**|SFC|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=2155s)|`07/12/2025`|
 |**Karpe Diem: Pokémon Fishing Contest**|GB|[A playlist dos homebrew](https://www.youtube.com/watch?v=hhsbqLgUiys&t=7825s)|`16/07/2026`|
 |**Kat's Run: Zen Nippon K-Car Senshuken**|SFC|[RACE DAY](https://www.youtube.com/watch?v=frLhT1VlORc&t=6037s)|`09/05/2026`|
-|**Kenseiden**|SMS|A playlist ATERRORIZANTE|`14/11/2026`|
+|**Kenseiden**|SMS|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=49yR4_3XKzQ&t=3295s)|`14/11/2026`|
 |**Killer7**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=JSlDiFvpUn4&t=3310s)|`16/02/2026`|
 |**Kitchen Panic**|PS1|[Playlist Gamer - Vol. 2](https://www.youtube.com/watch?v=ac019-OWR_M&t=14162s)|`16/08/2025`|
 |**Kirby: Squeak Squad**|DS|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=4159s)|`14/09/2025`|
@@ -189,7 +189,7 @@
 |**No One Can Stop Mr. Domino!**|PS1|[Playlist Gamer 10](https://www.youtube.com/watch?v=zH6Fp3geL3U&t=6698s)|`22/08/2026`|
 |**Nosferatu**|SNES|[Playlist Gamer - Especial Terror](https://www.youtube.com/watch?v=knLu-8HYqJM&t=2767s)|`25/10/2025`|
 |**Onimusha: Way of The Sword**|XSX|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=SYlgS0IeOnA&t=270s&pp=0gcJCWMAwfN6Pr3D)|`17/10/2026`|
-|**Parasite Eve**|PS1|A playlist ATERRORIZANTE|`14/11/2026`|
+|**Parasite Eve**|PS1|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=49yR4_3XKzQ&t=12575s)|`14/11/2026`|
 |**Pass the Pigs: Let the Good Swines Roll!**|DS|[Playlist Gamer 8](https://www.youtube.com/watch?v=SIMGjPbG4DI&t=4965s&pp=0gcJCWMAwfN6Pr3D)|`03/05/2026`|
 |**Pen Pen**|DC|[Playlist Gamer 10](https://www.youtube.com/watch?v=KbVNzCG3nUY&t=264s)|`16/08/2026`|
 |**Penguin Land**|GB|[Playlist Gamer 7](https://www.youtube.com/watch?v=p1nB8B6IxcY&t=296s)|`05/04/2026`|
@@ -261,7 +261,7 @@
 |**The Lion King**|SNES|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=16030s)|`05/07/2025`|
 |**The Mask**|SNES|[Playlist Gamer - Vol. 1](https://www.youtube.com/watch?v=IUpP8i9Vsl4&t=20004s)|`05/07/2025`|
 |**The Polar Express**|GC|[25 anos do GBA e do GameCube](https://www.youtube.com/watch?v=sWiEi0TFKNU&t=12198s)|`15/02/2026`|
-|**The Ring: Terror's Realm**|DC|A playlist ATERRORIZANTE|`14/11/2026`|
+|**The Ring: Terror's Realm**|DC|[A playlist ATERRORIZANTE](https://www.youtube.com/watch?v=49yR4_3XKzQ&t=10049s)|`14/11/2026`|
 |**The Simpsons: Hit & Run**|PS2|[Playlist Gamer - Vol. 5](https://www.youtube.com/watch?v=_fEa1tYUHwc&t=14292s)|`14/09/2025`|
 |**The Simpsons: Road Rage**|GBA|[Playlist Gamer 8](https://www.youtube.com/watch?v=kOWwkcylx9E&t=336s)|`01/05/2026`|
 |**The Simpsons Wrestling**|PS1|[Playlist Gamer 6](https://www.youtube.com/watch?v=MJ5uH4ncX18&t=10584s)|`07/12/2025`|
